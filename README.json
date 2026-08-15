@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T22:08:29Z",
+            "last_commit": "2026-08-15T00:53:47Z",
             "owner": "Peergos",
             "repo": "Peergos",
             "stars": 2445
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-12T06:33:27Z",
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1539
+            "stars": 1540
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-08-13T21:07:06Z",
             "owner": "icidasset",
             "repo": "diffuse",
-            "stars": 873
+            "stars": 874
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-05-14T14:56:57Z",
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8793
+            "stars": 8794
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-08-06T14:21:03Z",
             "owner": "ipfs",
             "repo": "ipfs-companion",
-            "stars": 2158
+            "stars": 2157
           }
         },
         {
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:50:02.802Z",
+    "last_updated": "2026-08-15T02:36:43.037Z",
     "original_repository": "ipfs/awesome-ipfs",
     "original_repository_sha": "04fcfef57e6f233fa164cf7020e8e5f588a78675",
     "enhanced_repository": "enhansome/enhansome-ipfs",
