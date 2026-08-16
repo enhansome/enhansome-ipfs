@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T00:53:47Z",
+            "last_commit": "2026-08-15T22:22:40Z",
             "owner": "Peergos",
             "repo": "Peergos",
             "stars": 2445
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:36:43.037Z",
+    "last_updated": "2026-08-16T02:46:08.341Z",
     "original_repository": "ipfs/awesome-ipfs",
     "original_repository_sha": "04fcfef57e6f233fa164cf7020e8e5f588a78675",
     "enhanced_repository": "enhansome/enhansome-ipfs",

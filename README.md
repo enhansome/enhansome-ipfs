@@ -2,7 +2,7 @@
 
 This is a community list of awesome projects, apps, tools, and services related to IPFS.
 
-To submit your project, read the [Content Policy](https://github.com/ipfs/awesome-ipfs/blob/main/CONTRIBUTING.md#content-policy) ⭐ 4,597 | 🐛 19 | 🌐 JavaScript | 📅 2025-11-13, and [**submit a PR**](https://github.com/ipfs/awesome-ipfs/edit/main/README.md) ⭐ 4,597 | 🐛 19 | 🌐 JavaScript | 📅 2025-11-13
+To submit your project, read the [Content Policy](https://github.com/ipfs/awesome-ipfs/blob/main/CONTRIBUTING.md#content-policy) ⭐ 4,599 | 🐛 19 | 🌐 JavaScript | 📅 2025-11-13, and [**submit a PR**](https://github.com/ipfs/awesome-ipfs/edit/main/README.md) ⭐ 4,599 | 🐛 19 | 🌐 JavaScript | 📅 2025-11-13
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 ## Apps
 
 * [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) ⭐ 6,557 | 🐛 110 | 🌐 JavaScript | 📅 2026-08-13 - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
-* [Peergos](https://github.com/Peergos/Peergos) ⭐ 2,445 | 🐛 102 | 🌐 Java | 📅 2026-08-15 - End-to-end encrypted, peer-to-peer file storage and sharing.
+* [Peergos](https://github.com/Peergos/Peergos) ⭐ 2,445 | 🐛 103 | 🌐 Java | 📅 2026-08-15 - End-to-end encrypted, peer-to-peer file storage and sharing.
 * [Planet](https://github.com/Planetable/Planet) ⭐ 1,810 | 🐛 80 | 🌐 Swift | 📅 2026-07-11 - Build and host decentralized blogs and websites with IPFS on your Mac
 * [archiveweb.page](https://github.com/webrecorder/archiveweb.page) ⭐ 1,540 | 🐛 112 | 🌐 TypeScript | 📅 2026-08-12 - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
 * [Agregore](https://github.com/AgregoreWeb/agregore-browser) ⭐ 920 | 🐛 103 | 🌐 JavaScript | 📅 2026-07-13 - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
@@ -156,4 +156,4 @@ See the [**Contribution Guidelines**](./CONTRIBUTING.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
