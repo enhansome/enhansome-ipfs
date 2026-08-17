@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T04:56:05Z",
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6557
+            "stars": 6556
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T22:22:40Z",
+            "last_commit": "2026-08-16T21:38:38Z",
             "owner": "Peergos",
             "repo": "Peergos",
             "stars": 2445
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-12T06:33:27Z",
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1540
+            "stars": 1541
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-13T14:45:15Z",
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 920
+            "stars": 921
           }
         },
         {
@@ -86,7 +86,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T21:07:06Z",
+            "last_commit": "2026-08-16T17:21:42Z",
             "owner": "icidasset",
             "repo": "diffuse",
             "stars": 874
@@ -305,7 +305,7 @@
             "last_commit": "2026-07-13T14:45:15Z",
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 920
+            "stars": 921
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-08-11T09:32:33Z",
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 943
+            "stars": 944
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2024-09-01T18:40:16Z",
             "owner": "aquiladev",
             "repo": "ipfs-action",
-            "stars": 180
+            "stars": 181
           }
         },
         {
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:46:08.341Z",
+    "last_updated": "2026-08-17T02:45:20.749Z",
     "original_repository": "ipfs/awesome-ipfs",
     "original_repository_sha": "04fcfef57e6f233fa164cf7020e8e5f588a78675",
     "enhanced_repository": "enhansome/enhansome-ipfs",
