@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T04:56:05Z",
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6556
+            "stars": 6557
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T21:38:38Z",
+            "last_commit": "2026-08-17T22:49:07Z",
             "owner": "Peergos",
             "repo": "Peergos",
             "stars": 2445
@@ -173,7 +173,7 @@
             "last_commit": "2026-07-14T20:53:51Z",
             "owner": "hyprspace",
             "repo": "hyprspace",
-            "stars": 243
+            "stars": 244
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-05-14T14:56:57Z",
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8794
+            "stars": 8793
           }
         },
         {
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:45:20.749Z",
+    "last_updated": "2026-08-18T02:39:59.885Z",
     "original_repository": "ipfs/awesome-ipfs",
     "original_repository_sha": "04fcfef57e6f233fa164cf7020e8e5f588a78675",
     "enhanced_repository": "enhansome/enhansome-ipfs",
