@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "IPFS is an open-source project that encourages the development of multiple implementations of the protocol, each of which seeks to optimize for various use cases.\nCheck out the list of IPFS implementations in the IPFS docs.",
-      "items": [],
-      "title": "Implementations"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36580101,
             "language": "JavaScript",
             "last_commit": "2026-08-13T04:56:05Z",
             "owner": "ipfs",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12323472,
             "language": "Java",
             "last_commit": "2026-08-18T08:41:08Z",
             "owner": "Peergos",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 497232768,
             "language": "Swift",
             "last_commit": "2026-07-11T12:44:39Z",
             "owner": "Planetable",
@@ -57,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239604498,
             "language": "TypeScript",
             "last_commit": "2026-08-12T06:33:27Z",
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1542
+            "stars": 1546
           }
         },
         {
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271903277,
             "language": "JavaScript",
             "last_commit": "2026-07-13T14:45:15Z",
             "owner": "AgregoreWeb",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80358021,
             "language": "JavaScript",
             "last_commit": "2026-08-18T15:21:17Z",
             "owner": "icidasset",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53143022,
             "language": "Python",
             "last_commit": "2026-07-24T13:33:40Z",
             "owner": "oduwsdl",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49778387,
             "language": "Go",
             "last_commit": "2024-02-13T20:46:10Z",
             "owner": "sahib",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 859144712,
             "language": "Vue",
             "last_commit": "2025-01-01T16:43:42Z",
             "owner": "bjesus",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 123068400,
             "language": "Go",
             "last_commit": "2023-10-11T15:55:39Z",
             "owner": "nomasters",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91518890,
             "language": "JavaScript",
             "last_commit": "2023-10-25T08:04:22Z",
             "owner": "jes",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 792799102,
             "language": "Go",
             "last_commit": "2026-07-14T20:53:51Z",
             "owner": "hyprspace",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259748084,
             "language": "JavaScript",
             "last_commit": "2024-11-02T18:50:14Z",
             "owner": "Weedshaker",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 244331126,
             "language": "TypeScript",
             "last_commit": "2025-01-02T19:08:51Z",
             "owner": "seed-hypermedia",
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142161410,
             "language": "TypeScript",
             "last_commit": "2026-06-01T15:20:41Z",
             "owner": "ipfs-shipyard",
@@ -225,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 390853550,
             "language": "Shell",
             "last_commit": "2022-09-25T10:12:35Z",
             "owner": "SomajitDey",
@@ -239,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 151755548,
             "language": "JavaScript",
             "last_commit": "2022-02-16T05:45:31Z",
             "owner": "IBM",
@@ -253,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43354207,
             "language": "JavaScript",
             "last_commit": "2021-01-30T19:06:05Z",
             "owner": "jamescarlyle",
@@ -267,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 519659274,
             "language": "TypeScript",
             "last_commit": "2025-10-15T04:06:16Z",
             "owner": "cppshane",
@@ -281,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277854214,
             "language": "JavaScript",
             "last_commit": "2022-11-04T07:43:39Z",
             "owner": "underscoredLabs",
@@ -301,24 +316,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271903277,
             "language": "JavaScript",
             "last_commit": "2026-07-13T14:45:15Z",
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
             "stars": 922
           }
-        },
-        {
-          "node_type": "item",
-          "title": "galacteek",
-          "description": "A multi-platform Qt5-based browser for the distributed web.",
-          "children": []
         }
       ],
       "title": "Browsers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -327,11 +337,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48617634,
             "language": "JavaScript",
             "last_commit": "2026-05-14T14:56:57Z",
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8794
+            "stars": 8795
           }
         },
         {
@@ -341,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32695583,
             "language": "JavaScript",
             "last_commit": "2026-08-06T14:21:03Z",
             "owner": "ipfs",
@@ -355,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104770273,
             "language": "TypeScript",
             "last_commit": "2026-06-12T16:09:27Z",
             "owner": "ipfs",
@@ -369,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170428113,
             "language": "JavaScript",
             "last_commit": "2025-05-10T08:33:18Z",
             "owner": "ipfs-shipyard",
@@ -383,8 +397,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183183290,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:01:34Z",
+            "last_commit": "2026-08-19T11:40:18Z",
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 944
@@ -397,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 158306529,
             "language": "Go",
             "last_commit": "2024-07-24T20:50:49Z",
             "owner": "ipdr",
@@ -411,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191404375,
             "language": "Go",
             "last_commit": "2026-08-07T11:40:11Z",
             "owner": "berty",
@@ -425,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 43112526,
             "language": "Shell",
             "last_commit": "2026-08-04T12:04:52Z",
             "owner": "ipfs",
@@ -439,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 194534435,
             "language": "Java",
             "last_commit": "2026-01-05T18:35:02Z",
             "owner": "ipfs-shipyard",
@@ -453,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232126249,
             "language": "Vue",
             "last_commit": "2023-01-06T02:24:39Z",
             "owner": "anthonybudd",
@@ -467,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121661420,
             "language": "Java",
             "last_commit": "2024-06-24T13:23:57Z",
             "owner": "Consensys",
@@ -481,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37651478,
             "language": "Go",
             "last_commit": "2019-12-19T10:11:36Z",
             "owner": "cryptix",
@@ -495,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33839139,
             "language": "Shell",
             "last_commit": "2020-11-05T02:13:05Z",
             "owner": "whyrusleeping",
@@ -509,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241868748,
             "language": "JavaScript",
             "last_commit": "2024-09-01T18:40:16Z",
             "owner": "aquiladev",
@@ -523,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75574517,
             "language": "C#",
             "last_commit": "2019-01-19T00:51:17Z",
             "owner": "richardschneider",
@@ -537,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142181521,
             "language": "JavaScript",
             "last_commit": "2026-04-07T13:06:20Z",
             "owner": "ipld",
@@ -551,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142658876,
             "language": "JavaScript",
             "last_commit": "2023-01-24T21:17:26Z",
             "owner": "moxystudio",
@@ -565,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283285470,
             "language": "Go",
             "last_commit": "2022-03-05T12:48:29Z",
             "owner": "multiverse-vcs",
@@ -579,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167083512,
             "language": "Python",
             "last_commit": "2023-08-11T20:47:26Z",
             "owner": "AuHau",
@@ -593,8 +622,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671031871,
             "language": "TypeScript",
-            "last_commit": "2026-08-06T11:53:22Z",
+            "last_commit": "2026-08-19T10:22:30Z",
             "owner": "omnipin",
             "repo": "omnipin",
             "stars": 65
@@ -607,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280700380,
             "language": "Go",
             "last_commit": "2026-07-22T23:02:30Z",
             "owner": "wabarc",
@@ -621,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130761484,
             "language": "Python",
             "last_commit": "2019-02-09T22:17:56Z",
             "owner": "TroyWilson1",
@@ -635,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38531848,
             "language": "Shell",
             "last_commit": "2018-07-10T20:55:15Z",
             "owner": "jbenet",
@@ -649,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167617137,
             "language": "Python",
             "last_commit": "2024-03-20T16:01:45Z",
             "owner": "bneijt",
@@ -663,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 424210524,
             "language": "JavaScript",
             "last_commit": "2024-02-13T10:02:57Z",
             "owner": "p2plabsxyz",
@@ -677,6 +712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46719326,
             "language": "JavaScript",
             "last_commit": "2017-06-26T16:46:37Z",
             "owner": "jbenet",
@@ -691,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 684475066,
             "language": "Python",
             "last_commit": "2025-12-06T20:16:12Z",
             "owner": "ElettraSciComp",
@@ -705,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38529233,
             "language": "Shell",
             "last_commit": "2015-11-18T15:46:46Z",
             "owner": "jbenet",
@@ -719,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 539574618,
             "language": "JavaScript",
             "last_commit": "2024-03-07T02:39:25Z",
             "owner": "JusticeEngineering",
@@ -733,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174486155,
             "language": "JavaScript",
             "last_commit": "2022-12-07T05:44:41Z",
             "owner": "shlemph",
@@ -747,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345203945,
             "language": "Python",
             "last_commit": "2022-01-27T17:52:53Z",
             "owner": "dokterbob",
@@ -761,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263160880,
             "language": "JavaScript",
             "last_commit": "2023-09-25T15:34:42Z",
             "owner": "ibnesayeed",
@@ -775,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521783521,
             "language": "JavaScript",
             "last_commit": "2022-12-07T15:16:16Z",
             "owner": "alexbakers",
@@ -789,6 +832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350260805,
             "language": "JavaScript",
             "last_commit": "2021-04-08T21:16:21Z",
             "owner": "justicenode",
@@ -803,6 +847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234936985,
             "language": "Go",
             "last_commit": "2020-01-23T16:14:27Z",
             "owner": "simpleaswater",
@@ -817,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 442479791,
             "language": "Go",
             "last_commit": "2023-07-31T19:48:50Z",
             "owner": "wabarc",
@@ -831,6 +877,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90793509,
             "language": "JavaScript",
             "last_commit": "2017-05-16T20:14:09Z",
             "owner": "JayBrown",
@@ -845,6 +892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1016353104,
             "language": "JavaScript",
             "last_commit": "2025-09-11T16:05:32Z",
             "owner": "rhodey",
@@ -859,6 +907,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 669217392,
             "language": "Go",
             "last_commit": "2023-10-17T14:23:58Z",
             "owner": "quasarch",
@@ -873,6 +922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248416013,
             "language": "Go",
             "last_commit": "2020-03-19T20:44:20Z",
             "owner": "RTradeLtd",
@@ -887,24 +937,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 277140868,
             "language": "Go",
             "last_commit": "2022-01-16T15:15:37Z",
             "owner": "wabarc",
             "repo": "wbipfs",
             "stars": 3
           }
-        },
-        {
-          "node_type": "item",
-          "title": "solid-ipfs",
-          "description": "Using Solid to store IPFS Hash privately or publicly.",
-          "children": []
         }
       ],
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -913,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104770273,
             "language": "TypeScript",
             "last_commit": "2026-06-12T16:09:27Z",
             "owner": "ipfs",
@@ -927,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 921260799,
             "language": "TypeScript",
             "last_commit": "2026-04-30T21:37:27Z",
             "owner": "ipshipyard",
@@ -936,26 +983,12 @@
         }
       ],
       "title": "Debugging Tools & Learning"
-    },
-    {
-      "description": "We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a PR moving the entry into stale.md and optionally add the reason why it's marked as stale with an indented comment.\nView the list of stale projects here",
-      "items": [],
-      "title": "Stale Projects"
-    },
-    {
-      "description": "Contributions are welcome!\nSee the Contribution Guidelines.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:42:51.578Z",
+    "last_updated": "2026-08-19T12:37:48.813Z",
     "original_repository": "ipfs/awesome-ipfs",
+    "original_repository_id": 44264666,
     "original_repository_sha": "04fcfef57e6f233fa164cf7020e8e5f588a78675",
     "enhanced_repository": "enhansome/enhansome-ipfs",
     "enhanced_repository_description": null,
