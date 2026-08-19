@@ -25,12 +25,12 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 
 ## Apps
 
-* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) ⭐ 6,557 | 🐛 110 | 🌐 JavaScript | 📅 2026-08-13 - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
-* [Peergos](https://github.com/Peergos/Peergos) ⭐ 2,445 | 🐛 103 | 🌐 Java | 📅 2026-08-17 - End-to-end encrypted, peer-to-peer file storage and sharing.
+* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) ⭐ 6,556 | 🐛 110 | 🌐 JavaScript | 📅 2026-08-13 - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
+* [Peergos](https://github.com/Peergos/Peergos) ⭐ 2,446 | 🐛 101 | 🌐 Java | 📅 2026-08-18 - End-to-end encrypted, peer-to-peer file storage and sharing.
 * [Planet](https://github.com/Planetable/Planet) ⭐ 1,810 | 🐛 80 | 🌐 Swift | 📅 2026-07-11 - Build and host decentralized blogs and websites with IPFS on your Mac
-* [archiveweb.page](https://github.com/webrecorder/archiveweb.page) ⭐ 1,541 | 🐛 112 | 🌐 TypeScript | 📅 2026-08-12 - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
-* [Agregore](https://github.com/AgregoreWeb/agregore-browser) ⭐ 921 | 🐛 103 | 🌐 JavaScript | 📅 2026-07-13 - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
-* [Diffuse](https://github.com/icidasset/diffuse) ⭐ 874 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-16 - Play music from your IPFS node, or any other cloud/distributed storage service you use.
+* [archiveweb.page](https://github.com/webrecorder/archiveweb.page) ⭐ 1,542 | 🐛 112 | 🌐 TypeScript | 📅 2026-08-12 - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
+* [Agregore](https://github.com/AgregoreWeb/agregore-browser) ⭐ 922 | 🐛 103 | 🌐 JavaScript | 📅 2026-07-13 - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
+* [Diffuse](https://github.com/icidasset/diffuse) ⭐ 874 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-18 - Play music from your IPFS node, or any other cloud/distributed storage service you use.
 * [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) ⭐ 655 | 🐛 160 | 🌐 Python | 📅 2026-07-24 - Web Archive (WARC) indexing and replay using IPFS.
 * [brig](https://github.com/sahib/brig) ⭐ 576 | 🐛 29 | 🌐 Go | 📅 2024-02-13 - File synchronization with git like interface and FUSE filesystem.
 * [TeaTime](https://github.com/bjesus/teatime) ⭐ 529 | 🐛 5 | 🌐 Vue | 📅 2025-01-01 - A fully static distributed library system powered by IPFS, SQLite and GitHub.
@@ -56,18 +56,18 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 
 A list of web browsers with IPFS integrations
 
-* [Agregore](https://github.com/AgregoreWeb/agregore-browser) ⭐ 921 | 🐛 103 | 🌐 JavaScript | 📅 2026-07-13 - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
+* [Agregore](https://github.com/AgregoreWeb/agregore-browser) ⭐ 922 | 🐛 103 | 🌐 JavaScript | 📅 2026-07-13 - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
 * [Brave](https://brave.com/ipfs-support/) - A privacy-focused browser with many future forward features.
 * [galacteek](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
 * [Opera](https://blogs.opera.com/tips-and-tricks/2021/02/opera-crypto-files-for-keeps-ipfs-unstoppable-domains/) - Opera browser added support for `ipfs://` in 2021
 
 ## Tools
 
-* [orbit-db](https://github.com/orbitdb/orbit-db) ⭐ 8,793 | 🐛 25 | 🌐 JavaScript | 📅 2026-05-14 - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
+* [orbit-db](https://github.com/orbitdb/orbit-db) ⭐ 8,794 | 🐛 25 | 🌐 JavaScript | 📅 2026-05-14 - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
 * [ipfs-companion](https://github.com/ipfs/ipfs-companion) ⭐ 2,157 | 🐛 138 | 🌐 JavaScript | 📅 2026-08-06 - Browser extension that simplifies access to IPFS resources.
 * [Public Gateway Checker](https://github.com/ipfs/public-gateway-checker) ⭐ 2,095 | 🐛 36 | 🌐 TypeScript | 📅 2026-06-12 - Checks which public gateways are online or not.
 * [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) ⭐ 1,168 | 🐛 31 | 🌐 JavaScript | 📅 2025-05-10 - Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy
-* [sourcify](https://github.com/ethereum/sourcify) ⭐ 944 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-11 - Decentralized Solidity contract source code verification service
+* [sourcify](https://github.com/ethereum/sourcify) ⭐ 944 | 🐛 106 | 🌐 TypeScript | 📅 2026-08-18 - Decentralized Solidity contract source code verification service
 * [IPDR](https://github.com/miguelmota/ipdr) ⚠️ Archived - IPFS-backed Docker Registry.
 * [go-orbit-db](https://github.com/berty/go-orbit-db) ⭐ 453 | 🐛 6 | 🌐 Go | 📅 2026-08-07 - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 * [ipget](https://github.com/ipfs/ipget) ⚠️ Archived - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
@@ -76,7 +76,7 @@ A list of web browsers with IPFS integrations
 * [mahuta](https://github.com/ConsenSys/Mahuta) ⭐ 246 | 🐛 19 | 🌐 Java | 📅 2024-06-24 - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
 * [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) ⭐ 232 | 🐛 6 | 🌐 Go | 📅 2019-12-19 - push/pull repositories from/to IPFS.
 * [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) ⭐ 203 | 🐛 3 | 🌐 Shell | 📅 2020-11-05 - A script to rehost your git repos in ipfs.
-* [ipfs-action](https://github.com/aquiladev/ipfs-action) ⭐ 181 | 🐛 11 | 🌐 JavaScript | 📅 2024-09-01 - GitHub Action for delivery of static websites.
+* [ipfs-action](https://github.com/aquiladev/ipfs-action) ⭐ 180 | 🐛 11 | 🌐 JavaScript | 📅 2024-09-01 - GitHub Action for delivery of static websites.
 * [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) ⭐ 149 | 🐛 5 | 🌐 C# | 📅 2019-01-19 - Mount IPFS as a mapped drive on Windows.
 * [IPLD Explorer](https://github.com/ipfs-shipyard/ipld-explorer) ⭐ 134 | 🐛 28 | 🌐 JavaScript | 📅 2026-04-07 - Explore the Merkle Forest from the comfort of your browser.
 * [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) ⭐ 115 | 🐛 7 | 🌐 JavaScript | 📅 2023-01-24 - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
@@ -156,4 +156,4 @@ See the [**Contribution Guidelines**](./CONTRIBUTING.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
