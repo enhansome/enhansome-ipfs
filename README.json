@@ -15,7 +15,7 @@
             "last_commit": "2026-08-13T04:56:05Z",
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6556
+            "stars": 6558
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 12323472,
             "language": "Java",
-            "last_commit": "2026-08-18T08:41:08Z",
+            "last_commit": "2026-08-19T18:39:17Z",
             "owner": "Peergos",
             "repo": "Peergos",
             "stars": 2446
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-12T06:33:27Z",
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1546
+            "stars": 1545
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-05-14T14:56:57Z",
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8795
+            "stars": 8796
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-06-12T16:09:27Z",
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2095
+            "stars": 2094
           }
         },
         {
@@ -399,7 +399,7 @@
             "archived": false,
             "id": 183183290,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:40:18Z",
+            "last_commit": "2026-08-19T13:05:29Z",
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 944
@@ -963,7 +963,7 @@
             "last_commit": "2026-06-12T16:09:27Z",
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2095
+            "stars": 2094
           }
         },
         {
@@ -986,7 +986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:37:48.813Z",
+    "last_updated": "2026-08-20T02:41:51.712Z",
     "original_repository": "ipfs/awesome-ipfs",
     "original_repository_id": 44264666,
     "original_repository_sha": "04fcfef57e6f233fa164cf7020e8e5f588a78675",
