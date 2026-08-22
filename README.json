@@ -15,7 +15,7 @@
             "last_commit": "2026-08-13T04:56:05Z",
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6558
+            "stars": 6559
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 12323472,
             "language": "Java",
-            "last_commit": "2026-08-20T18:57:10Z",
+            "last_commit": "2026-08-21T22:05:02Z",
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2446
+            "stars": 2447
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-11T12:44:39Z",
             "owner": "Planetable",
             "repo": "Planet",
-            "stars": 1810
+            "stars": 1811
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 239604498,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T06:33:27Z",
+            "last_commit": "2026-08-21T19:40:41Z",
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1547
+            "stars": 1548
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 80358021,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T16:37:57Z",
+            "last_commit": "2026-08-21T12:32:51Z",
             "owner": "icidasset",
             "repo": "diffuse",
             "stars": 874
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 104770273,
             "language": "TypeScript",
-            "last_commit": "2026-06-12T16:09:27Z",
+            "last_commit": "2026-08-21T11:44:13Z",
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2095
+            "stars": 2096
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-04T12:04:52Z",
             "owner": "ipfs",
             "repo": "ipget",
-            "stars": 422
+            "stars": 423
           }
         },
         {
@@ -960,10 +960,10 @@
             "archived": false,
             "id": 104770273,
             "language": "TypeScript",
-            "last_commit": "2026-06-12T16:09:27Z",
+            "last_commit": "2026-08-21T11:44:13Z",
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2095
+            "stars": 2096
           }
         },
         {
@@ -986,7 +986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:48:02.449Z",
+    "last_updated": "2026-08-22T02:39:24.692Z",
     "original_repository": "ipfs/awesome-ipfs",
     "original_repository_id": 44264666,
     "original_repository_sha": "04fcfef57e6f233fa164cf7020e8e5f588a78675",
