@@ -15,7 +15,7 @@
             "last_commit": "2026-08-13T04:56:05Z",
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6559
+            "stars": 6560
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 12323472,
             "language": "Java",
-            "last_commit": "2026-08-21T22:05:02Z",
+            "last_commit": "2026-08-22T17:52:17Z",
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2447
+            "stars": 2448
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T19:40:41Z",
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1548
+            "stars": 1549
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 792799102,
             "language": "Go",
-            "last_commit": "2026-07-14T20:53:51Z",
+            "last_commit": "2026-08-22T19:01:18Z",
             "owner": "hyprspace",
             "repo": "hyprspace",
             "stars": 244
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-20T09:05:44Z",
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 944
+            "stars": 946
           }
         },
         {
@@ -624,7 +624,7 @@
             "archived": false,
             "id": 671031871,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:22:30Z",
+            "last_commit": "2026-08-22T18:34:27Z",
             "owner": "omnipin",
             "repo": "omnipin",
             "stars": 65
@@ -986,7 +986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:39:24.692Z",
+    "last_updated": "2026-08-23T02:48:25.803Z",
     "original_repository": "ipfs/awesome-ipfs",
     "original_repository_id": 44264666,
     "original_repository_sha": "04fcfef57e6f233fa164cf7020e8e5f588a78675",
