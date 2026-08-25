@@ -180,7 +180,7 @@
             "last_commit": "2026-08-22T19:01:18Z",
             "owner": "hyprspace",
             "repo": "hyprspace",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-05-14T14:56:57Z",
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8797
+            "stars": 8796
           }
         },
         {
@@ -897,7 +897,7 @@
             "last_commit": "2025-09-11T16:05:32Z",
             "owner": "rhodey",
             "repo": "IPFS-boot",
-            "stars": 4
+            "stars": 5
           }
         },
         {
@@ -986,7 +986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:43:25.111Z",
+    "last_updated": "2026-08-25T05:48:20.321Z",
     "original_repository": "ipfs/awesome-ipfs",
     "original_repository_id": 44264666,
     "original_repository_sha": "04fcfef57e6f233fa164cf7020e8e5f588a78675",
