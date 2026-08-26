@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T00:15:54Z",
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6561
+            "stars": 6563
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 12323472,
             "language": "Java",
-            "last_commit": "2026-08-25T00:52:19Z",
+            "last_commit": "2026-08-25T22:15:54Z",
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2449
+            "stars": 2451
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 239604498,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T19:40:41Z",
+            "last_commit": "2026-08-26T01:11:57Z",
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1553
+            "stars": 1555
           }
         },
         {
@@ -399,10 +399,10 @@
             "archived": false,
             "id": 183183290,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T09:05:44Z",
+            "last_commit": "2026-08-25T16:32:08Z",
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 946
+            "stars": 947
           }
         },
         {
@@ -986,7 +986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:48:20.321Z",
+    "last_updated": "2026-08-26T02:50:35.515Z",
     "original_repository": "ipfs/awesome-ipfs",
     "original_repository_id": 44264666,
     "original_repository_sha": "04fcfef57e6f233fa164cf7020e8e5f588a78675",
