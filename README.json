@@ -12,10 +12,10 @@
             "archived": false,
             "id": 36580101,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T00:15:54Z",
+            "last_commit": "2026-08-27T04:55:57Z",
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6563
+            "stars": 6564
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 12323472,
             "language": "Java",
-            "last_commit": "2026-08-25T22:15:54Z",
+            "last_commit": "2026-08-27T08:03:33Z",
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2451
+            "stars": 2453
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-13T14:45:15Z",
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 922
+            "stars": 921
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 80358021,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T15:31:00Z",
+            "last_commit": "2026-08-26T15:46:08Z",
             "owner": "icidasset",
             "repo": "diffuse",
             "stars": 874
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 792799102,
             "language": "Go",
-            "last_commit": "2026-08-22T19:01:18Z",
+            "last_commit": "2026-08-26T22:47:41Z",
             "owner": "hyprspace",
             "repo": "hyprspace",
             "stars": 245
@@ -321,7 +321,7 @@
             "last_commit": "2026-07-13T14:45:15Z",
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 922
+            "stars": 921
           }
         }
       ],
@@ -342,7 +342,7 @@
             "last_commit": "2026-05-14T14:56:57Z",
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8796
+            "stars": 8797
           }
         },
         {
@@ -399,10 +399,10 @@
             "archived": false,
             "id": 183183290,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T16:32:08Z",
+            "last_commit": "2026-08-27T09:18:43Z",
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 947
+            "stars": 948
           }
         },
         {
@@ -842,6 +842,21 @@
         },
         {
           "node_type": "item",
+          "title": "rivet",
+          "description": "A toolkit makes it easier to archive webpages to IPFS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 442479791,
+            "language": "Go",
+            "last_commit": "2023-07-31T19:48:50Z",
+            "owner": "wabarc",
+            "repo": "rivet",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
           "title": "SimpleAsWater Bot",
           "description": "A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster.",
           "children": [],
@@ -853,21 +868,6 @@
             "owner": "simpleaswater",
             "repo": "twitter-pinbot",
             "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rivet",
-          "description": "A toolkit makes it easier to archive webpages to IPFS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 442479791,
-            "language": "Go",
-            "last_commit": "2023-07-31T19:48:50Z",
-            "owner": "wabarc",
-            "repo": "rivet",
-            "stars": 12
           }
         },
         {
@@ -986,9 +986,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:50:35.515Z",
-    "original_repository": "ipfs/awesome-ipfs",
-    "original_repository_id": 44264666,
+    "last_updated": "2026-08-27T11:48:47.537Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 44264666,
+      "language": "JavaScript",
+      "last_commit": "2025-11-13T12:41:43Z",
+      "owner": "ipfs",
+      "repo": "awesome-ipfs",
+      "stars": 4605
+    },
     "original_repository_sha": "04fcfef57e6f233fa164cf7020e8e5f588a78675",
     "enhanced_repository": "enhansome/enhansome-ipfs",
     "enhanced_repository_description": null,
