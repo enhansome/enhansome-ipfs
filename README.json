@@ -15,8 +15,9 @@
             "last_commit": "2026-08-27T04:55:57Z",
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6564
-          }
+            "stars": 6563
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 12323472,
             "language": "Java",
-            "last_commit": "2026-08-27T08:03:33Z",
+            "last_commit": "2026-08-28T01:42:27Z",
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2453
-          }
+            "stars": 2452
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 497232768,
             "language": "Swift",
-            "last_commit": "2026-07-11T12:44:39Z",
+            "last_commit": "2026-08-28T06:55:58Z",
             "owner": "Planetable",
             "repo": "Planet",
             "stars": 1811
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-26T01:11:57Z",
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1555
-          }
+            "stars": 1556
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
             "stars": 921
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 80358021,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T15:46:08Z",
+            "last_commit": "2026-08-27T16:57:25Z",
             "owner": "icidasset",
             "repo": "diffuse",
-            "stars": 874
-          }
+            "stars": 875
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "oduwsdl",
             "repo": "ipwb",
             "stars": 655
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "sahib",
             "repo": "brig",
             "stars": 576
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "bjesus",
             "repo": "teatime",
             "stars": 529
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "nomasters",
             "repo": "killcord",
             "stars": 526
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "jes",
             "repo": "hardbin",
             "stars": 258
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "hyprspace",
             "repo": "hyprspace",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "Weedshaker",
             "repo": "PeerWebSite",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "seed-hypermedia",
             "repo": "mintter",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "ipfs-shipyard",
             "repo": "ipfs-share-files",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "SomajitDey",
             "repo": "ipfs-chat",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "IBM",
             "repo": "ipfs-social-proof",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "jamescarlyle",
             "repo": "ipfs-wiki",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "cppshane",
             "repo": "orbit-chat",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "underscoredLabs",
             "repo": "webgl-ipfs-fps",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         }
       ],
       "title": "Apps"
@@ -322,7 +342,8 @@
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
             "stars": 921
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         }
       ],
       "title": "Browsers"
@@ -342,8 +363,9 @@
             "last_commit": "2026-05-14T14:56:57Z",
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8797
-          }
+            "stars": 8798
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "ipfs",
             "repo": "ipfs-companion",
             "stars": 2157
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -372,8 +395,9 @@
             "last_commit": "2026-08-21T11:44:13Z",
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2096
-          }
+            "stars": 2097
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "ipfs-shipyard",
             "repo": "ipfs-deploy",
             "stars": 1168
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -399,11 +424,12 @@
             "archived": false,
             "id": 183183290,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:18:43Z",
+            "last_commit": "2026-08-28T05:40:44Z",
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 948
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "ipdr",
             "repo": "ipdr",
             "stars": 544
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "berty",
             "repo": "go-orbit-db",
             "stars": 454
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "ipfs",
             "repo": "ipget",
             "stars": 423
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "ipfs-shipyard",
             "repo": "gomobile-ipfs",
             "stars": 355
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "anthonybudd",
             "repo": "VIPFS",
             "stars": 306
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "Consensys",
             "repo": "Mahuta",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "cryptix",
             "repo": "git-remote-ipfs",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "whyrusleeping",
             "repo": "git-ipfs-rehost",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "aquiladev",
             "repo": "ipfs-action",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "richardschneider",
             "repo": "net-ipfs-mount",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "ipld",
             "repo": "explore.ipld.io",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -583,7 +620,8 @@
             "owner": "moxystudio",
             "repo": "gatsby-plugin-ipfs",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -598,7 +636,8 @@
             "owner": "multiverse-vcs",
             "repo": "go-multiverse",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -613,7 +652,8 @@
             "owner": "AuHau",
             "repo": "ipfs-publish",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -628,7 +668,8 @@
             "owner": "omnipin",
             "repo": "omnipin",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -643,7 +684,8 @@
             "owner": "wabarc",
             "repo": "ipfs-pinner",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -658,7 +700,8 @@
             "owner": "TroyWilson1",
             "repo": "ipfs-add-from-encrypted",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -673,7 +716,8 @@
             "owner": "jbenet",
             "repo": "ipfs-screencap",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -688,7 +732,8 @@
             "owner": "bneijt",
             "repo": "ipfs-video-gateway",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -703,7 +748,8 @@
             "owner": "p2plabsxyz",
             "repo": "dscan",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -718,7 +764,8 @@
             "owner": "jbenet",
             "repo": "http2ipfs-web",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -733,7 +780,8 @@
             "owner": "ElettraSciComp",
             "repo": "Git-IPFS-Remote-Bridge",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -748,7 +796,8 @@
             "owner": "jbenet",
             "repo": "ipfs-paste",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -763,7 +812,8 @@
             "owner": "JusticeEngineering",
             "repo": "pin-tweet-to-ipfs",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -778,7 +828,8 @@
             "owner": "shlemph",
             "repo": "ipfsecret",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -793,7 +844,8 @@
             "owner": "dokterbob",
             "repo": "youtube2ipfs",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -808,7 +860,8 @@
             "owner": "ibnesayeed",
             "repo": "setup-ipfs",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -823,7 +876,8 @@
             "owner": "alexbakers",
             "repo": "create-ipfs-app",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -838,7 +892,8 @@
             "owner": "justicenode",
             "repo": "node-ipns-pin",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -853,7 +908,8 @@
             "owner": "wabarc",
             "repo": "rivet",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -868,7 +924,8 @@
             "owner": "simpleaswater",
             "repo": "twitter-pinbot",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -883,7 +940,8 @@
             "owner": "JayBrown",
             "repo": "IPRedirect",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -898,7 +956,8 @@
             "owner": "rhodey",
             "repo": "IPFS-boot",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -913,7 +972,8 @@
             "owner": "quasarch",
             "repo": "dump-ipfs",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -928,7 +988,8 @@
             "owner": "RTradeLtd",
             "repo": "iprfc",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -943,7 +1004,8 @@
             "owner": "wabarc",
             "repo": "wbipfs",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         }
       ],
       "title": "Tools"
@@ -963,8 +1025,9 @@
             "last_commit": "2026-08-21T11:44:13Z",
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2096
-          }
+            "stars": 2097
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         },
         {
           "node_type": "item",
@@ -979,14 +1042,15 @@
             "owner": "ipshipyard",
             "repo": "ipns-inspector",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
         }
       ],
       "title": "Debugging Tools & Learning"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:13:57.106Z",
+    "last_updated": "2026-08-28T13:20:10.484Z",
     "original_repository_info": {
       "archived": false,
       "id": 44264666,
@@ -994,7 +1058,7 @@
       "last_commit": "2025-11-13T12:41:43Z",
       "owner": "ipfs",
       "repo": "awesome-ipfs",
-      "stars": 4605
+      "stars": 4607
     },
     "original_repository_sha": "04fcfef57e6f233fa164cf7020e8e5f588a78675",
     "enhanced_repository": "enhansome/enhansome-ipfs",
