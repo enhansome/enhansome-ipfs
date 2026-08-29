@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. ",
+            "homepage": "https://docs.ipfs.tech/install/ipfs-desktop/",
             "id": 36580101,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T04:55:57Z",
+            "open_issues": 112,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6563
+            "stars": 6564,
+            "topics": [
+              "desktop",
+              "dweb",
+              "ipfs",
+              "ipfs-desktop",
+              "ipfs-gui",
+              "ipns",
+              "menubar",
+              "p2p",
+              "pinning",
+              "protocol",
+              "unixfs"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -26,12 +43,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A p2p, secure file storage, social network and application protocol",
+            "homepage": "https://peergos.org",
             "id": 12323472,
             "language": "Java",
-            "last_commit": "2026-08-28T01:42:27Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T20:34:53Z",
+            "open_issues": 101,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2452
+            "stars": 2452,
+            "topics": [
+              "cryptography",
+              "decentralized",
+              "documents",
+              "encrypted",
+              "encryption",
+              "end-to-end-encryption",
+              "ipfs",
+              "ipld",
+              "java",
+              "libp2p",
+              "p2p",
+              "peer-to-peer",
+              "photos",
+              "post-quantum",
+              "privacy",
+              "security",
+              "self-authenticated-protocol",
+              "social-network",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -42,12 +84,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build and host decentralized blogs and websites on your Mac",
+            "homepage": "https://planetable.xyz",
             "id": 497232768,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:55:58Z",
+            "open_issues": 80,
             "owner": "Planetable",
             "repo": "Planet",
-            "stars": 1811
+            "stars": 1812,
+            "topics": [
+              "blog",
+              "ens",
+              "ipfs",
+              "ipns",
+              "kubo",
+              "macos",
+              "static-site-generator",
+              "swiftui",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -58,12 +115,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!",
+            "homepage": "https://chrome.google.com/webstore/detail/webrecorder/fpeoodllldobpkbkabpblcfaogecpndd",
             "id": 239604498,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T01:11:57Z",
+            "open_issues": 114,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1556
+            "stars": 1556,
+            "topics": [
+              "archiving",
+              "browser-extension",
+              "chromium",
+              "extension",
+              "wacz",
+              "warc",
+              "web-archiving",
+              "webrecorder"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -74,12 +145,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal browser for the distributed web (Desktop version)",
+            "homepage": "https://www.youtube.com/watch?v=TnYKvOQB0ts&list=PL7sG5SCUNyeYx8wnfMOUpsh7rM_g0w_cu&index=14",
             "id": 271903277,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-13T14:45:15Z",
+            "open_issues": 103,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 921
+            "stars": 921,
+            "topics": [
+              "browser",
+              "decentralization",
+              "dweb",
+              "hypercore-protocol",
+              "ipfs",
+              "p2p",
+              "ssb"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -90,12 +174,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A music player that connects to your cloud/distributed storage.",
+            "homepage": "https://diffuse.sh",
             "id": 80358021,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T16:57:25Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T14:49:51Z",
+            "open_issues": 9,
             "owner": "icidasset",
             "repo": "diffuse",
-            "stars": 875
+            "stars": 875,
+            "topics": [
+              "cloud",
+              "decentralized",
+              "distributed",
+              "music",
+              "music-library",
+              "music-player"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -106,12 +202,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS",
+            "homepage": null,
             "id": 53143022,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-24T13:33:40Z",
+            "open_issues": 160,
             "owner": "oduwsdl",
             "repo": "ipwb",
-            "stars": 655
+            "stars": 655,
+            "topics": [
+              "docker",
+              "ipfs",
+              "memento",
+              "memento-rfc",
+              "python",
+              "service-worker",
+              "warc",
+              "wayback",
+              "web-archiving"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -122,12 +233,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "File synchronization on top of ipfs with git like interface & web based UI",
+            "homepage": "https://brig.readthedocs.io",
             "id": 49778387,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2024-02-13T20:46:10Z",
+            "open_issues": 29,
             "owner": "sahib",
             "repo": "brig",
-            "stars": 576
+            "stars": 576,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -138,12 +254,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fully static distributed library system powered by IPFS, SQLite and GitHub ",
+            "homepage": "https://bjesus.github.io/teatime/",
             "id": 859144712,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2025-01-01T16:43:42Z",
+            "open_issues": 5,
             "owner": "bjesus",
             "repo": "teatime",
-            "stars": 529
+            "stars": 529,
+            "topics": [
+              "teatime-instance"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -154,12 +277,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "a censorship resistant deadman's switch",
+            "homepage": "https://killcord.io",
             "id": 123068400,
             "language": "Go",
+            "license": "Unlicense",
             "last_commit": "2023-10-11T15:55:39Z",
+            "open_issues": 1,
             "owner": "nomasters",
             "repo": "killcord",
-            "stars": 526
+            "stars": 526,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -170,12 +298,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Encrypted pastebin using IPFS",
+            "homepage": null,
             "id": 91518890,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-10-25T08:04:22Z",
+            "open_issues": 5,
             "owner": "jes",
             "repo": "hardbin",
-            "stars": 258
+            "stars": 258,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -186,12 +319,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks (fork)",
+            "homepage": "https://docs.hyprspace.privatevoid.net",
             "id": 792799102,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T22:47:41Z",
+            "open_issues": 30,
             "owner": "hyprspace",
             "repo": "hyprspace",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -202,12 +340,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Peer to Peer decentral Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, audios, images, etc.",
+            "homepage": "https://weedshaker.github.io/PeerWebSite/",
             "id": 259748084,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-02T18:50:14Z",
+            "open_issues": 9,
             "owner": "Weedshaker",
             "repo": "PeerWebSite",
-            "stars": 191
+            "stars": 191,
+            "topics": [
+              "data-storage",
+              "decentralized",
+              "distributed",
+              "encryption-decryption",
+              "hosting",
+              "indie-web",
+              "indieweb",
+              "ipfs",
+              "js-ipfs",
+              "old-internet",
+              "p2p",
+              "peer-to-peer",
+              "peerweb",
+              "small-internet",
+              "smol-internet",
+              "the-cyberfreedom-network",
+              "web3",
+              "webrtc",
+              "website-hosting",
+              "webtorrent"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -218,12 +382,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Mintter: an app for knowledge communities. Powered by the Hypermedia protocol.",
+            "homepage": "https://mintter.com",
             "id": 244331126,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-02T19:08:51Z",
+            "open_issues": 131,
             "owner": "seed-hypermedia",
             "repo": "mintter",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -234,12 +403,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Share files directly from the browser using IPFS.",
+            "homepage": "https://share.ipfs.io",
             "id": 142161410,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-01T15:20:41Z",
+            "open_issues": 40,
             "owner": "ipfs-shipyard",
             "repo": "ipfs-share-files",
-            "stars": 169
+            "stars": 169,
+            "topics": [
+              "files",
+              "ipfs",
+              "javascript",
+              "p2p",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -250,12 +430,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time P2P messenger using go-ipfs pubsub. TUI. End-to-end encrypted texting & file-sharing. NAT traversal.",
+            "homepage": null,
             "id": 390853550,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2022-09-25T10:12:35Z",
+            "open_issues": 1,
             "owner": "SomajitDey",
             "repo": "ipfs-chat",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "brokerless",
+              "dapp",
+              "decentralized",
+              "dht",
+              "distributed",
+              "encrypted",
+              "end-to-end-encryption",
+              "file-sharing",
+              "ipfs",
+              "p2p",
+              "peer",
+              "peer-to-peer",
+              "privacy",
+              "pubsub",
+              "real-time",
+              "secure-messenger",
+              "serverless",
+              "terminal-ui",
+              "texting",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -266,12 +472,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "IPFS Social Proof: A decentralized identity and social proof system",
+            "homepage": null,
             "id": 151755548,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-16T05:45:31Z",
+            "open_issues": 21,
             "owner": "IBM",
             "repo": "ipfs-social-proof",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "choojs",
+              "dapp",
+              "dapps",
+              "decentralized-applications",
+              "identity",
+              "ipfs",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -282,12 +501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 43354207,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-01-30T19:06:05Z",
+            "open_issues": 0,
             "owner": "jamescarlyle",
             "repo": "ipfs-wiki",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -298,12 +522,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decentralized message client demo with OrbitDB and IPFS running on Angular",
+            "homepage": "https://orbitchat.dev",
             "id": 519659274,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-10-15T04:06:16Z",
+            "open_issues": 1,
             "owner": "cppshane",
             "repo": "orbit-chat",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "angular",
+              "dapp",
+              "ipfs",
+              "orbit-db",
+              "p2p-chat"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -314,12 +549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Game on IPFS",
+            "homepage": "https://ipfs.io/ipfs/QmanBVUK5T7EgtYk6MfEtew2ji9xZvN9JcRNBejgEutZWh/",
             "id": 277854214,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-11-04T07:43:39Z",
+            "open_issues": 1,
             "owner": "underscoredLabs",
             "repo": "webgl-ipfs-fps",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         }
@@ -336,12 +576,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal browser for the distributed web (Desktop version)",
+            "homepage": "https://www.youtube.com/watch?v=TnYKvOQB0ts&list=PL7sG5SCUNyeYx8wnfMOUpsh7rM_g0w_cu&index=14",
             "id": 271903277,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-13T14:45:15Z",
+            "open_issues": 103,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 921
+            "stars": 921,
+            "topics": [
+              "browser",
+              "decentralization",
+              "dweb",
+              "hypercore-protocol",
+              "ipfs",
+              "p2p",
+              "ssb"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         }
@@ -358,12 +611,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Peer-to-Peer Databases for the Decentralized Web",
+            "homepage": null,
             "id": 48617634,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-14T14:56:57Z",
+            "open_issues": 25,
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8798
+            "stars": 8798,
+            "topics": [
+              "crdt",
+              "database",
+              "decentralized",
+              "distributed",
+              "ipfs",
+              "libp2p",
+              "merkle-crdt",
+              "p2p",
+              "peer-to-peer"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -374,12 +642,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser extension that routes ipfs:// addresses and content-addressed websites through your own local IPFS node",
+            "homepage": "https://docs.ipfs.tech/install/ipfs-companion/",
             "id": 32695583,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-24T01:50:37Z",
+            "open_issues": 138,
             "owner": "ipfs",
             "repo": "ipfs-companion",
-            "stars": 2157
+            "stars": 2157,
+            "topics": [
+              "chrome-extension",
+              "dweb",
+              "firefox-extension",
+              "ipfs",
+              "ipfs-companion",
+              "ipfs-gateway",
+              "ipfs-gui",
+              "p2p",
+              "protocol",
+              "webextension"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -390,12 +674,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checks which public gateways are online or not",
+            "homepage": "https://ipfs.github.io/public-gateway-checker/",
             "id": 104770273,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T11:44:13Z",
+            "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2097
+            "stars": 2097,
+            "topics": [
+              "ipfs",
+              "ipfs-gui"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -406,12 +698,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Old (2022) proof of concept:  Zero-Config CLI to Deploy Static Websites to IPFS",
+            "homepage": null,
             "id": 170428113,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-10T08:33:18Z",
+            "open_issues": 31,
             "owner": "ipfs-shipyard",
             "repo": "ipfs-deploy",
-            "stars": 1168
+            "stars": 1168,
+            "topics": [
+              "cli",
+              "deploying",
+              "dnslink",
+              "ipfs",
+              "need-maintainer",
+              "pinning",
+              "service",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -422,12 +728,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code verification service for Ethereum smart contracts",
+            "homepage": "https://sourcify.dev",
             "id": 183183290,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T05:40:44Z",
+            "open_issues": 106,
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 948
+            "stars": 948,
+            "topics": [
+              "ethereum",
+              "smart-contracts",
+              "solidity",
+              "source-code-verification",
+              "verification",
+              "vyper"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -438,12 +756,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🐋 IPFS-backed Docker Registry. By @miguelmota",
+            "homepage": "https://github.com/ipdr/ipdr",
             "id": 158306529,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-07-24T20:50:49Z",
+            "open_issues": 10,
             "owner": "ipdr",
             "repo": "ipdr",
-            "stars": 544
+            "stars": 544,
+            "topics": [
+              "cdn",
+              "docker",
+              "docker-registry",
+              "go",
+              "golang",
+              "interplanetary",
+              "ipfs",
+              "ipfs-protocol",
+              "p2p"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -454,12 +787,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go version of P2P Database on IPFS",
+            "homepage": "https://berty.tech",
             "id": 191404375,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T11:40:11Z",
+            "open_issues": 6,
             "owner": "berty",
             "repo": "go-orbit-db",
-            "stars": 454
+            "stars": 454,
+            "topics": [
+              "berty",
+              "crdt",
+              "ipfs",
+              "libp2p",
+              "orbit-db",
+              "orbitdb",
+              "p2p-database"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -470,12 +816,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Retrieve files with  IPFS + Amino DHT and save them locally.",
+            "homepage": null,
             "id": 43112526,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-04T12:04:52Z",
+            "open_issues": 29,
             "owner": "ipfs",
             "repo": "ipget",
-            "stars": 423
+            "stars": 423,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -486,12 +837,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[Archived old experiment] IPFS and libp2p on Mobile, with Gomobile. See https://docs.ipfs.tech/concepts/ipfs-implementations/ instead.",
+            "homepage": null,
             "id": 194534435,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-05T18:35:02Z",
+            "open_issues": 35,
             "owner": "ipfs-shipyard",
             "repo": "gomobile-ipfs",
-            "stars": 355
+            "stars": 355,
+            "topics": [
+              "android",
+              "berty",
+              "gomobile",
+              "ios",
+              "ipfs",
+              "libp2p",
+              "mobile",
+              "mobile-development",
+              "p2p"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -502,12 +868,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vue.js + IPFS = VIPFS. Create unstoppable applications",
+            "homepage": null,
             "id": 232126249,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-01-06T02:24:39Z",
+            "open_issues": 24,
             "owner": "anthonybudd",
             "repo": "VIPFS",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "boostrap",
+              "fontawesome",
+              "ipfs",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -518,12 +894,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IPFS Storage service with search capability",
+            "homepage": null,
             "id": 121661420,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-24T13:23:57Z",
+            "open_issues": 19,
             "owner": "Consensys",
             "repo": "Mahuta",
-            "stars": 246
+            "stars": 246,
+            "topics": [
+              "caching",
+              "elasticsearch",
+              "ipfs",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -534,12 +920,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "git transport helper for ipfs",
+            "homepage": null,
             "id": 37651478,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-12-19T10:11:36Z",
+            "open_issues": 6,
             "owner": "cryptix",
             "repo": "git-remote-ipfs",
-            "stars": 232
+            "stars": 232,
+            "topics": [
+              "git",
+              "golang",
+              "ipfs"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -550,12 +945,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A script to rehost your git repos in ipfs",
+            "homepage": null,
             "id": 33839139,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2020-11-05T02:13:05Z",
+            "open_issues": 3,
             "owner": "whyrusleeping",
             "repo": "git-ipfs-rehost",
-            "stars": 203
+            "stars": 203,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -566,12 +966,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.",
+            "homepage": "https://dapps-delivery-guide.readthedocs.io/",
             "id": 241868748,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-01T18:40:16Z",
+            "open_issues": 11,
             "owner": "aquiladev",
             "repo": "ipfs-action",
-            "stars": 180
+            "stars": 180,
+            "topics": [
+              "action",
+              "deploy",
+              "github",
+              "infura",
+              "ipfs",
+              "pinata",
+              "upload"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -582,12 +995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mount the InterPlanetary File System as a mapped drive on Windows",
+            "homepage": null,
             "id": 75574517,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-01-19T00:51:17Z",
+            "open_issues": 5,
             "owner": "richardschneider",
             "repo": "net-ipfs-mount",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -598,12 +1016,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explore the Merkle Forest from the comfort of your browser",
+            "homepage": "https://explore.ipld.io",
             "id": 142181521,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-07T13:06:20Z",
+            "open_issues": 28,
             "owner": "ipld",
             "repo": "explore.ipld.io",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "ipfs",
+              "ipfs-gui"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -614,12 +1040,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds support for deploying Gatsby to IPFS by ensuring that assets are relative",
+            "homepage": null,
             "id": 142658876,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-24T21:17:26Z",
+            "open_issues": 7,
             "owner": "moxystudio",
             "repo": "gatsby-plugin-ipfs",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "build",
+              "gatsby",
+              "gatsby-plugin",
+              "ipfs",
+              "relative"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -630,12 +1067,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decentralized Version Control System",
+            "homepage": "http://www.multiverse-vcs.com",
             "id": 283285470,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2022-03-05T12:48:29Z",
+            "open_issues": 7,
             "owner": "multiverse-vcs",
             "repo": "go-multiverse",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "ipfs",
+              "p2p"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -646,12 +1091,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Continuous Delivery of static websites to IPFS",
+            "homepage": "https://ipfs-publish.uhlir.dev",
             "id": 167083512,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-11T20:47:26Z",
+            "open_issues": 7,
             "owner": "AuHau",
             "repo": "ipfs-publish",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "continuous-delivery",
+              "ipfs",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -662,12 +1116,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌻🌸 The ultimate decentralized website deployment toolkit",
+            "homepage": "https://omnipin.eth.link",
             "id": 671031871,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T18:34:27Z",
+            "open_issues": 5,
             "owner": "omnipin",
             "repo": "omnipin",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "blockchain",
+              "cli",
+              "dnslink",
+              "ens",
+              "ethereum",
+              "gnosis-safe",
+              "ipfs",
+              "multisig"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -678,12 +1146,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit helps upload files to IPFS pinning services.",
+            "homepage": null,
             "id": 280700380,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-22T23:02:30Z",
+            "open_issues": 8,
             "owner": "wabarc",
             "repo": "ipfs-pinner",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "file-sharing",
+              "infura",
+              "ipfs",
+              "ipfs-pinner",
+              "ipfs-pinning-services",
+              "nft",
+              "nftstorage",
+              "pinata",
+              "web3",
+              "web3storage"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -694,12 +1178,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This script takes a file or directory as input, uses GPG AES256 symmetric encryption with the password you provide and adds it to IPFS and returns the IPFS hash.",
+            "homepage": null,
             "id": 130761484,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-02-09T22:17:56Z",
+            "open_issues": 1,
             "owner": "TroyWilson1",
             "repo": "ipfs-add-from-encrypted",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "cli",
+              "encryption",
+              "ipfs",
+              "ipfs-add",
+              "ipfs-hash"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -710,12 +1205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Capture screenshots, publish them to IPFS, and copy the link to the clipboard.",
+            "homepage": "http://ipfs.io",
             "id": 38531848,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2018-07-10T20:55:15Z",
+            "open_issues": 6,
             "owner": "jbenet",
             "repo": "ipfs-screencap",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -726,12 +1226,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker image to host IPFS HTTP gateway with support for pin listing and easily adding content",
+            "homepage": "https://ipfs.video",
             "id": 167617137,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-03-20T16:01:45Z",
+            "open_issues": 1,
             "owner": "bneijt",
             "repo": "ipfs-video-gateway",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "docker",
+              "ipfs"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -742,12 +1250,32 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A decentralized storage and file-sharing tool that uploads content to IPFS and generates decentralized QR codes.",
+            "homepage": "https://chromewebstore.google.com/detail/dscan-own-your-identity-o/idpfgkgogjjgklefnkjdpghkifbjenap",
             "id": 424210524,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-13T10:02:57Z",
+            "open_issues": 8,
             "owner": "p2plabsxyz",
             "repo": "dscan",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "browser-extension",
+              "buidl-tools",
+              "chrome-extension",
+              "decentralization",
+              "dscan-extension",
+              "filecoin",
+              "hacktoberfest",
+              "ipfs",
+              "p2p",
+              "p2plabsxyz",
+              "qrcode-generator",
+              "web3",
+              "web3storage",
+              "webpack-plugin"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -758,12 +1286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://localhost:8080/ipfs/QmZTEDF8yN3dMGcYqtyTzuR8PFsTqmLLBxsVZ4jzV2a1rd",
             "id": 46719326,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-06-26T16:46:37Z",
+            "open_issues": 7,
             "owner": "jbenet",
             "repo": "http2ipfs-web",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -774,12 +1307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Git IPFS Remote Bridge",
+            "homepage": null,
             "id": 684475066,
             "language": "Python",
+            "license": "LGPL-2.1",
             "last_commit": "2025-12-06T20:16:12Z",
+            "open_issues": 0,
             "owner": "ElettraSciComp",
             "repo": "Git-IPFS-Remote-Bridge",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -790,12 +1328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "paste stdin and clipboard to ipfs",
+            "homepage": "http://ipfs.io",
             "id": 38529233,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2015-11-18T15:46:46Z",
+            "open_issues": 2,
             "owner": "jbenet",
             "repo": "ipfs-paste",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -806,12 +1349,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web extension to Save tweets in a verifiable way to IPFS",
+            "homepage": null,
             "id": 539574618,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-07T02:39:25Z",
+            "open_issues": 21,
             "owner": "JusticeEngineering",
             "repo": "pin-tweet-to-ipfs",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "chrome-extension",
+              "ipfs",
+              "twitter",
+              "web",
+              "web3",
+              "webextension"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -822,12 +1377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Encrypt and decrypt IPFS files with a secret passphrase.",
+            "homepage": "https://c2fo-lab.github.io/ipfsecret/",
             "id": 174486155,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-07T05:44:41Z",
+            "open_issues": 7,
             "owner": "shlemph",
             "repo": "ipfsecret",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -838,12 +1398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Download videos from YouTube (and similar video platforms) and add them to IPFS.",
+            "homepage": null,
             "id": 345203945,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2022-01-27T17:52:53Z",
+            "open_issues": 1,
             "owner": "dokterbob",
             "repo": "youtube2ipfs",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -854,12 +1419,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GitHub Action to install and initialize IPFS",
+            "homepage": null,
             "id": 263160880,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-25T15:34:42Z",
+            "open_issues": 9,
             "owner": "ibnesayeed",
             "repo": "setup-ipfs",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "actions",
+              "cicd",
+              "github-actions",
+              "github-workflow",
+              "ipfs",
+              "ipfs-installation",
+              "ipfs-setup",
+              "javascript",
+              "javascript-action",
+              "nodejs",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -870,12 +1452,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up a decentralized web3 app by running one command.",
+            "homepage": null,
             "id": 521783521,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-07T15:16:16Z",
+            "open_issues": 0,
             "owner": "alexbakers",
             "repo": "create-ipfs-app",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "dapp",
+              "filebase",
+              "ipfs",
+              "moralis",
+              "pinata",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -886,12 +1480,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Script to pin files via ipns and keep them updated. Feedback appreciated : )",
+            "homepage": null,
             "id": 350260805,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-04-08T21:16:21Z",
+            "open_issues": 1,
             "owner": "justicenode",
             "repo": "node-ipns-pin",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "ipfs",
+              "ipfs-api",
+              "ipfs-pin",
+              "ipns",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -902,12 +1507,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit makes it easier to archive webpages to IPFS",
+            "homepage": null,
             "id": 442479791,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-07-31T19:48:50Z",
+            "open_issues": 7,
             "owner": "wabarc",
             "repo": "rivet",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "archiving",
+              "ipfs",
+              "webpage"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -918,12 +1532,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A twitter pinbot using IPFS Cluster",
+            "homepage": null,
             "id": 234936985,
             "language": "Go",
+            "license": null,
             "last_commit": "2020-01-23T16:14:27Z",
+            "open_issues": 2,
             "owner": "simpleaswater",
             "repo": "twitter-pinbot",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "bot",
+              "go",
+              "golang",
+              "ipfs",
+              "ipfs-cluster",
+              "libp2p",
+              "pinbot",
+              "simpleaswater",
+              "twitter",
+              "twitter-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -934,12 +1564,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Userscript to redirect IPFS and IPNS addresses to localhost in the browser",
+            "homepage": null,
             "id": 90793509,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-16T20:14:09Z",
+            "open_issues": 0,
             "owner": "JayBrown",
             "repo": "IPRedirect",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "browser",
+              "chrome",
+              "firefox",
+              "go-ipfs",
+              "greasemonkey",
+              "ipfs",
+              "ipns",
+              "javascript",
+              "localhost",
+              "opera",
+              "redirect",
+              "safari",
+              "tampermonkey",
+              "userscript"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -950,12 +1600,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IPFS apps with an update path",
+            "homepage": "https://lock.host",
             "id": 1016353104,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-11T16:05:32Z",
+            "open_issues": 0,
             "owner": "rhodey",
             "repo": "IPFS-boot",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "crypto",
+              "ipfs",
+              "p2p"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -966,12 +1625,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code from ETH Global Paris 2023 Hackathon",
+            "homepage": null,
             "id": 669217392,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-10-17T14:23:58Z",
+            "open_issues": 0,
             "owner": "quasarch",
             "repo": "dump-ipfs",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -982,12 +1646,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RFC downloader and archiver that stores RFCs on IPFS, and indexes them against Lens",
+            "homepage": "https://gateway.temporal.cloud/ipns/rfcs.temporal.cloud",
             "id": 248416013,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2020-03-19T20:44:20Z",
+            "open_issues": 0,
             "owner": "RTradeLtd",
             "repo": "iprfc",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -998,12 +1667,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A command-line tool and Go package interface for wayback webpage to IPFS",
+            "homepage": null,
             "id": 277140868,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2022-01-16T15:15:37Z",
+            "open_issues": 0,
             "owner": "wabarc",
             "repo": "wbipfs",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "anticensorship",
+              "archive",
+              "golang",
+              "ipfs",
+              "memento",
+              "no-more-404",
+              "wayback"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         }
@@ -1020,12 +1702,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checks which public gateways are online or not",
+            "homepage": "https://ipfs.github.io/public-gateway-checker/",
             "id": 104770273,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T11:44:13Z",
+            "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2097
+            "stars": 2097,
+            "topics": [
+              "ipfs",
+              "ipfs-gui"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -1036,12 +1726,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "inspect and create IPNS records from the browser",
+            "homepage": "https://ipns.ipfs.network",
             "id": 921260799,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-04-30T21:37:27Z",
+            "open_issues": 15,
             "owner": "ipshipyard",
             "repo": "ipns-inspector",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "debug",
+              "ipfs",
+              "ipns"
+            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         }
@@ -1050,15 +1749,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:20:10.484Z",
+    "last_updated": "2026-08-29T04:16:28.132Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
+      "homepage": "https://awesome.ipfs.tech/",
       "id": 44264666,
       "language": "JavaScript",
+      "license": "CC0-1.0",
       "last_commit": "2025-11-13T12:41:43Z",
+      "open_issues": 18,
       "owner": "ipfs",
       "repo": "awesome-ipfs",
-      "stars": 4607
+      "stars": 4607,
+      "topics": [
+        "awesome",
+        "awesome-ipfs",
+        "awesome-list",
+        "ipfs"
+      ]
     },
     "original_repository_sha": "04fcfef57e6f233fa164cf7020e8e5f588a78675",
     "enhanced_repository": "enhansome/enhansome-ipfs",
