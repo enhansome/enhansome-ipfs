@@ -49,10 +49,10 @@
             "language": "Java",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-28T20:34:53Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2452,
+            "stars": 2453,
             "topics": [
               "cryptography",
               "decentralized",
@@ -651,7 +651,7 @@
             "open_issues": 138,
             "owner": "ipfs",
             "repo": "ipfs-companion",
-            "stars": 2157,
+            "stars": 2158,
             "topics": [
               "chrome-extension",
               "dweb",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:16:28.132Z",
+    "last_updated": "2026-08-29T08:16:50.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
