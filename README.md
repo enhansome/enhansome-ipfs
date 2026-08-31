@@ -2,7 +2,7 @@
 
 This is a community list of awesome projects, apps, tools, and services related to IPFS.
 
-To submit your project, read the [Content Policy](https://github.com/ipfs/awesome-ipfs/blob/main/CONTRIBUTING.md#content-policy) ⭐ 4,609 | 🐛 18 | 🌐 JavaScript | 📅 2025-11-13, and [**submit a PR**](https://github.com/ipfs/awesome-ipfs/edit/main/README.md) ⭐ 4,609 | 🐛 18 | 🌐 JavaScript | 📅 2025-11-13
+To submit your project, read the [Content Policy](https://github.com/ipfs/awesome-ipfs/blob/main/CONTRIBUTING.md#content-policy) ⭐ 4,610 | 🐛 18 | 🌐 JavaScript | 📅 2025-11-13, and [**submit a PR**](https://github.com/ipfs/awesome-ipfs/edit/main/README.md) ⭐ 4,610 | 🐛 18 | 🌐 JavaScript | 📅 2025-11-13
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 
 ## Apps
 
-* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) ⭐ 6,565 | 🐛 112 | 🌐 JavaScript | 📅 2026-08-27 - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
+* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) ⭐ 6,569 | 🐛 112 | 🌐 JavaScript | 📅 2026-08-27 - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
 * [Peergos](https://github.com/Peergos/Peergos) ⭐ 2,453 | 🐛 101 | 🌐 Java | 📅 2026-08-30 - End-to-end encrypted, peer-to-peer file storage and sharing.
 * [Planet](https://github.com/Planetable/Planet) ⭐ 1,813 | 🐛 80 | 🌐 Swift | 📅 2026-08-28 - Build and host decentralized blogs and websites with IPFS on your Mac
 * [archiveweb.page](https://github.com/webrecorder/archiveweb.page) ⭐ 1,557 | 🐛 111 | 🌐 TypeScript | 📅 2026-08-30 - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
@@ -40,7 +40,7 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 * [Peer Web Site](https://github.com/Weedshaker/PeerWebSite) ⭐ 191 | 🐛 9 | 🌐 JavaScript | 📅 2024-11-02 - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
 * [Mintter](https://github.com/MintterHypermedia/mintter) ⚠️ Archived - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
 * [IPFS Share](https://github.com/ipfs-shipyard/ipfs-share-files) ⭐ 169 | 🐛 40 | 🌐 TypeScript | 📅 2026-06-01 - Share files directly from the browser using IPFS.
-* [ipfs-chat](https://github.com/SomajitDey/ipfs-chat) ⭐ 153 | 🐛 1 | 🌐 Shell | 📅 2022-09-25 - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
+* [ipfs-chat](https://github.com/SomajitDey/ipfs-chat) ⭐ 153 | 🐛 1 | 🌐 Shell | 📅 2026-08-30 - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
 * [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) ⚠️ Archived - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 * [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) ⭐ 102 | 🐛 0 | 🌐 JavaScript | 📅 2021-01-30 - Wiki built on top of IPFS
 * [orbitchat.dev](https://github.com/cppshane/orbit-chat) ⭐ 31 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-15 - Ultra simple chatrooms on the web.
@@ -64,7 +64,7 @@ A list of web browsers with IPFS integrations
 ## Tools
 
 * [orbit-db](https://github.com/orbitdb/orbit-db) ⭐ 8,798 | 🐛 25 | 🌐 JavaScript | 📅 2026-05-14 - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
-* [ipfs-companion](https://github.com/ipfs/ipfs-companion) ⭐ 2,159 | 🐛 138 | 🌐 JavaScript | 📅 2026-08-24 - Browser extension that simplifies access to IPFS resources.
+* [ipfs-companion](https://github.com/ipfs/ipfs-companion) ⭐ 2,161 | 🐛 138 | 🌐 JavaScript | 📅 2026-08-24 - Browser extension that simplifies access to IPFS resources.
 * [Public Gateway Checker](https://github.com/ipfs/public-gateway-checker) ⭐ 2,097 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-21 - Checks which public gateways are online or not.
 * [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) ⭐ 1,168 | 🐛 31 | 🌐 JavaScript | 📅 2025-05-10 - Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy
 * [sourcify](https://github.com/ethereum/sourcify) ⭐ 950 | 🐛 106 | 🌐 TypeScript | 📅 2026-08-28 - Decentralized Solidity contract source code verification service
@@ -156,4 +156,4 @@ See the [**Contribution Guidelines**](./CONTRIBUTING.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

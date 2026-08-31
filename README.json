@@ -19,7 +19,7 @@
             "open_issues": 112,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6565,
+            "stars": 6569,
             "topics": [
               "desktop",
               "dweb",
@@ -48,7 +48,7 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T01:42:44Z",
+            "last_commit": "2026-08-30T23:55:38Z",
             "open_issues": 101,
             "owner": "Peergos",
             "repo": "Peergos",
@@ -286,7 +286,7 @@
             "open_issues": 1,
             "owner": "nomasters",
             "repo": "killcord",
-            "stars": 526,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -435,7 +435,7 @@
             "id": 390853550,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2022-09-25T10:12:35Z",
+            "last_commit": "2026-08-30T14:49:58Z",
             "open_issues": 1,
             "owner": "SomajitDey",
             "repo": "ipfs-chat",
@@ -651,7 +651,7 @@
             "open_issues": 138,
             "owner": "ipfs",
             "repo": "ipfs-companion",
-            "stars": 2159,
+            "stars": 2161,
             "topics": [
               "chrome-extension",
               "dweb",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:19:30.536Z",
+    "last_updated": "2026-08-31T07:34:23.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
@@ -1761,7 +1761,7 @@
       "open_issues": 18,
       "owner": "ipfs",
       "repo": "awesome-ipfs",
-      "stars": 4609,
+      "stars": 4610,
       "topics": [
         "awesome",
         "awesome-ipfs",
