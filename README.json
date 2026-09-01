@@ -52,7 +52,7 @@
             "open_issues": 101,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2453,
+            "stars": 2454,
             "topics": [
               "cryptography",
               "decentralized",
@@ -124,7 +124,7 @@
             "open_issues": 111,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1557,
+            "stars": 1558,
             "topics": [
               "archiving",
               "browser-extension",
@@ -154,7 +154,7 @@
             "open_issues": 103,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 921,
+            "stars": 922,
             "topics": [
               "browser",
               "decentralization",
@@ -179,7 +179,7 @@
             "id": 80358021,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T14:49:51Z",
+            "last_commit": "2026-08-31T22:19:04Z",
             "open_issues": 9,
             "owner": "icidasset",
             "repo": "diffuse",
@@ -377,6 +377,33 @@
         },
         {
           "node_type": "item",
+          "title": "IPFS Share",
+          "description": "Share files directly from the browser using IPFS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Share files directly from the browser using IPFS.",
+            "homepage": "https://share.ipfs.io",
+            "id": 142161410,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-06-01T15:20:41Z",
+            "open_issues": 40,
+            "owner": "ipfs-shipyard",
+            "repo": "ipfs-share-files",
+            "stars": 170,
+            "topics": [
+              "files",
+              "ipfs",
+              "javascript",
+              "p2p",
+              "react"
+            ]
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
+        },
+        {
+          "node_type": "item",
           "title": "Mintter",
           "description": "Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.",
           "children": [],
@@ -393,33 +420,6 @@
             "repo": "mintter",
             "stars": 170,
             "topics": []
-          },
-          "first_seen": "2026-08-28T13:20:10.484Z"
-        },
-        {
-          "node_type": "item",
-          "title": "IPFS Share",
-          "description": "Share files directly from the browser using IPFS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Share files directly from the browser using IPFS.",
-            "homepage": "https://share.ipfs.io",
-            "id": 142161410,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-06-01T15:20:41Z",
-            "open_issues": 40,
-            "owner": "ipfs-shipyard",
-            "repo": "ipfs-share-files",
-            "stars": 169,
-            "topics": [
-              "files",
-              "ipfs",
-              "javascript",
-              "p2p",
-              "react"
-            ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
         },
@@ -585,7 +585,7 @@
             "open_issues": 103,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 921,
+            "stars": 922,
             "topics": [
               "browser",
               "decentralization",
@@ -620,7 +620,7 @@
             "open_issues": 25,
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8798,
+            "stars": 8799,
             "topics": [
               "crdt",
               "database",
@@ -733,11 +733,11 @@
             "id": 183183290,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T05:40:44Z",
-            "open_issues": 106,
+            "last_commit": "2026-08-31T13:45:33Z",
+            "open_issues": 104,
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 950,
+            "stars": 949,
             "topics": [
               "ethereum",
               "smart-contracts",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T07:34:23.499Z",
+    "last_updated": "2026-09-01T06:43:53.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
@@ -1761,7 +1761,7 @@
       "open_issues": 18,
       "owner": "ipfs",
       "repo": "awesome-ipfs",
-      "stars": 4610,
+      "stars": 4611,
       "topics": [
         "awesome",
         "awesome-ipfs",
