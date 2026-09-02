@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-27T04:55:57Z",
-            "open_issues": 112,
+            "open_issues": 113,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6569,
+            "stars": 6570,
             "topics": [
               "desktop",
               "dweb",
@@ -48,7 +48,7 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T23:55:38Z",
+            "last_commit": "2026-09-01T14:50:54Z",
             "open_issues": 101,
             "owner": "Peergos",
             "repo": "Peergos",
@@ -328,7 +328,7 @@
             "open_issues": 30,
             "owner": "hyprspace",
             "repo": "hyprspace",
-            "stars": 245,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -647,7 +647,7 @@
             "id": 32695583,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-08-24T01:50:37Z",
+            "last_commit": "2026-09-01T08:53:10Z",
             "open_issues": 138,
             "owner": "ipfs",
             "repo": "ipfs-companion",
@@ -683,7 +683,7 @@
             "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2097,
+            "stars": 2098,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -704,7 +704,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2025-05-10T08:33:18Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "ipfs-shipyard",
             "repo": "ipfs-deploy",
             "stars": 1168,
@@ -733,11 +733,11 @@
             "id": 183183290,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T13:45:33Z",
-            "open_issues": 104,
+            "last_commit": "2026-09-01T11:42:47Z",
+            "open_issues": 101,
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 949,
+            "stars": 951,
             "topics": [
               "ethereum",
               "smart-contracts",
@@ -1711,7 +1711,7 @@
             "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2097,
+            "stars": 2098,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T06:43:53.108Z",
+    "last_updated": "2026-09-02T06:22:37.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
@@ -1761,7 +1761,7 @@
       "open_issues": 18,
       "owner": "ipfs",
       "repo": "awesome-ipfs",
-      "stars": 4611,
+      "stars": 4612,
       "topics": [
         "awesome",
         "awesome-ipfs",
