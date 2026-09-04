@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6569,
+            "stars": 6568,
             "topics": [
               "desktop",
               "dweb",
@@ -48,11 +48,11 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-01T14:50:54Z",
+            "last_commit": "2026-09-03T18:46:42Z",
             "open_issues": 101,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2455,
+            "stars": 2457,
             "topics": [
               "cryptography",
               "decentralized",
@@ -124,7 +124,7 @@
             "open_issues": 111,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1558,
+            "stars": 1560,
             "topics": [
               "archiving",
               "browser-extension",
@@ -179,7 +179,7 @@
             "id": 80358021,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T21:28:54Z",
+            "last_commit": "2026-09-03T18:13:33Z",
             "open_issues": 9,
             "owner": "icidasset",
             "repo": "diffuse",
@@ -737,7 +737,7 @@
             "open_issues": 104,
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 950,
+            "stars": 948,
             "topics": [
               "ethereum",
               "smart-contracts",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T06:26:34.643Z",
+    "last_updated": "2026-09-04T06:30:14.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
@@ -1761,7 +1761,7 @@
       "open_issues": 18,
       "owner": "ipfs",
       "repo": "awesome-ipfs",
-      "stars": 4612,
+      "stars": 4610,
       "topics": [
         "awesome",
         "awesome-ipfs",
