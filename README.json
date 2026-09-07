@@ -15,8 +15,8 @@
             "id": 36580101,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T04:56:10Z",
-            "open_issues": 113,
+            "last_commit": "2026-09-06T22:34:02Z",
+            "open_issues": 114,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
             "stars": 6570,
@@ -48,11 +48,11 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-05T10:16:19Z",
-            "open_issues": 101,
+            "last_commit": "2026-09-06T10:40:16Z",
+            "open_issues": 100,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2457,
+            "stars": 2460,
             "topics": [
               "cryptography",
               "decentralized",
@@ -93,7 +93,7 @@
             "open_issues": 80,
             "owner": "Planetable",
             "repo": "Planet",
-            "stars": 1813,
+            "stars": 1814,
             "topics": [
               "blog",
               "ens",
@@ -124,7 +124,7 @@
             "open_issues": 110,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1563,
+            "stars": 1564,
             "topics": [
               "archiving",
               "browser-extension",
@@ -737,7 +737,7 @@
             "open_issues": 104,
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 949,
+            "stars": 950,
             "topics": [
               "ethereum",
               "smart-contracts",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T06:27:58.580Z",
+    "last_updated": "2026-09-07T06:36:17.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
