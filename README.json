@@ -48,11 +48,11 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T06:09:15Z",
-            "open_issues": 101,
+            "last_commit": "2026-09-10T05:14:49Z",
+            "open_issues": 104,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2486,
+            "stars": 2502,
             "topics": [
               "cryptography",
               "decentralized",
@@ -124,7 +124,7 @@
             "open_issues": 110,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1565,
+            "stars": 1567,
             "topics": [
               "archiving",
               "browser-extension",
@@ -179,7 +179,7 @@
             "id": 80358021,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T22:04:12Z",
+            "last_commit": "2026-09-09T16:42:57Z",
             "open_issues": 8,
             "owner": "icidasset",
             "repo": "diffuse",
@@ -263,7 +263,7 @@
             "open_issues": 5,
             "owner": "bjesus",
             "repo": "teatime",
-            "stars": 529,
+            "stars": 528,
             "topics": [
               "teatime-instance"
             ]
@@ -680,10 +680,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-21T11:44:13Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2100,
+            "stars": 2101,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -733,8 +733,8 @@
             "id": 183183290,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T14:58:22Z",
-            "open_issues": 102,
+            "last_commit": "2026-09-09T08:53:19Z",
+            "open_issues": 104,
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 950,
@@ -1122,7 +1122,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-22T18:34:27Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "omnipin",
             "repo": "omnipin",
             "stars": 65,
@@ -1708,10 +1708,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-21T11:44:13Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2100,
+            "stars": 2101,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:37:09.272Z",
+    "last_updated": "2026-09-10T06:36:42.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
