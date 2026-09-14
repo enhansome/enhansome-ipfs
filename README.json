@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6580,
+            "stars": 6583,
             "topics": [
               "desktop",
               "dweb",
@@ -48,11 +48,11 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-12T22:26:03Z",
+            "last_commit": "2026-09-13T20:06:58Z",
             "open_issues": 101,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2515,
+            "stars": 2516,
             "topics": [
               "cryptography",
               "decentralized",
@@ -93,7 +93,7 @@
             "open_issues": 80,
             "owner": "Planetable",
             "repo": "Planet",
-            "stars": 1814,
+            "stars": 1813,
             "topics": [
               "blog",
               "ens",
@@ -124,7 +124,7 @@
             "open_issues": 110,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1570,
+            "stars": 1571,
             "topics": [
               "archiving",
               "browser-extension",
@@ -391,7 +391,7 @@
             "open_issues": 40,
             "owner": "ipfs-shipyard",
             "repo": "ipfs-share-files",
-            "stars": 170,
+            "stars": 171,
             "topics": [
               "files",
               "ipfs",
@@ -620,7 +620,7 @@
             "open_issues": 25,
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8802,
+            "stars": 8803,
             "topics": [
               "crdt",
               "database",
@@ -651,7 +651,7 @@
             "open_issues": 138,
             "owner": "ipfs",
             "repo": "ipfs-companion",
-            "stars": 2161,
+            "stars": 2160,
             "topics": [
               "chrome-extension",
               "dweb",
@@ -734,7 +734,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-10T09:15:18Z",
-            "open_issues": 106,
+            "open_issues": 105,
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 949,
@@ -954,7 +954,7 @@
             "open_issues": 3,
             "owner": "whyrusleeping",
             "repo": "git-ipfs-rehost",
-            "stars": 203,
+            "stars": 204,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -1735,7 +1735,7 @@
             "open_issues": 15,
             "owner": "ipshipyard",
             "repo": "ipns-inspector",
-            "stars": 20,
+            "stars": 19,
             "topics": [
               "debug",
               "ipfs",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:43:57.457Z",
+    "last_updated": "2026-09-14T06:58:42.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
