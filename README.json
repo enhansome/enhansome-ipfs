@@ -15,11 +15,11 @@
             "id": 36580101,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T14:12:59Z",
+            "last_commit": "2026-09-15T01:30:09Z",
             "open_issues": 113,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6583,
+            "stars": 6586,
             "topics": [
               "desktop",
               "dweb",
@@ -52,7 +52,7 @@
             "open_issues": 101,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2516,
+            "stars": 2518,
             "topics": [
               "cryptography",
               "decentralized",
@@ -124,7 +124,7 @@
             "open_issues": 110,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1571,
+            "stars": 1572,
             "topics": [
               "archiving",
               "browser-extension",
@@ -418,7 +418,7 @@
             "open_issues": 131,
             "owner": "seed-hypermedia",
             "repo": "mintter",
-            "stars": 170,
+            "stars": 169,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -683,7 +683,7 @@
             "open_issues": 37,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2101,
+            "stars": 2102,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -733,8 +733,8 @@
             "id": 183183290,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T09:15:18Z",
-            "open_issues": 105,
+            "last_commit": "2026-09-14T14:48:46Z",
+            "open_issues": 107,
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 949,
@@ -1121,8 +1121,8 @@
             "id": 671031871,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-22T18:34:27Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-14T12:23:29Z",
+            "open_issues": 5,
             "owner": "omnipin",
             "repo": "omnipin",
             "stars": 66,
@@ -1711,7 +1711,7 @@
             "open_issues": 37,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2101,
+            "stars": 2102,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T06:58:42.245Z",
+    "last_updated": "2026-09-15T06:37:54.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
@@ -1761,7 +1761,7 @@
       "open_issues": 19,
       "owner": "ipfs",
       "repo": "awesome-ipfs",
-      "stars": 4609,
+      "stars": 4610,
       "topics": [
         "awesome",
         "awesome-ipfs",
