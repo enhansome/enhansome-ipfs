@@ -15,8 +15,8 @@
             "id": 36580101,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T01:30:09Z",
-            "open_issues": 113,
+            "last_commit": "2026-09-15T17:15:01Z",
+            "open_issues": 112,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
             "stars": 6586,
@@ -48,8 +48,8 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-13T20:06:58Z",
-            "open_issues": 101,
+            "last_commit": "2026-09-15T20:44:28Z",
+            "open_issues": 102,
             "owner": "Peergos",
             "repo": "Peergos",
             "stars": 2518,
@@ -93,7 +93,7 @@
             "open_issues": 80,
             "owner": "Planetable",
             "repo": "Planet",
-            "stars": 1813,
+            "stars": 1812,
             "topics": [
               "blog",
               "ens",
@@ -211,7 +211,7 @@
             "open_issues": 160,
             "owner": "oduwsdl",
             "repo": "ipwb",
-            "stars": 656,
+            "stars": 657,
             "topics": [
               "docker",
               "ipfs",
@@ -620,7 +620,7 @@
             "open_issues": 25,
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8803,
+            "stars": 8804,
             "topics": [
               "crdt",
               "database",
@@ -733,11 +733,11 @@
             "id": 183183290,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T14:48:46Z",
-            "open_issues": 107,
+            "last_commit": "2026-09-16T04:35:45Z",
+            "open_issues": 105,
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 949,
+            "stars": 951,
             "topics": [
               "ethereum",
               "smart-contracts",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:37:54.940Z",
+    "last_updated": "2026-09-16T06:39:29.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
