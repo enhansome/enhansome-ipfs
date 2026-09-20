@@ -25,19 +25,19 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 
 ## Apps
 
-* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) ⭐ 6,586 | 🐛 112 | 🌐 JavaScript | 📅 2026-09-17 - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
-* [Peergos](https://github.com/Peergos/Peergos) ⭐ 2,521 | 🐛 102 | 🌐 Java | 📅 2026-09-18 - End-to-end encrypted, peer-to-peer file storage and sharing.
+* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) ⭐ 6,588 | 🐛 113 | 🌐 JavaScript | 📅 2026-09-17 - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
+* [Peergos](https://github.com/Peergos/Peergos) ⭐ 2,524 | 🐛 103 | 🌐 Java | 📅 2026-09-19 - End-to-end encrypted, peer-to-peer file storage and sharing.
 * [Planet](https://github.com/Planetable/Planet) ⭐ 1,813 | 🐛 80 | 🌐 Swift | 📅 2026-08-28 - Build and host decentralized blogs and websites with IPFS on your Mac
-* [archiveweb.page](https://github.com/webrecorder/archiveweb.page) ⭐ 1,576 | 🐛 112 | 🌐 TypeScript | 📅 2026-09-04 - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
+* [archiveweb.page](https://github.com/webrecorder/archiveweb.page) ⭐ 1,577 | 🐛 112 | 🌐 TypeScript | 📅 2026-09-04 - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
 * [Agregore](https://github.com/AgregoreWeb/agregore-browser) ⭐ 922 | 🐛 103 | 🌐 JavaScript | 📅 2026-07-13 - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
-* [Diffuse](https://github.com/icidasset/diffuse) ⭐ 876 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-17 - Play music from your IPFS node, or any other cloud/distributed storage service you use.
+* [Diffuse](https://github.com/icidasset/diffuse) ⭐ 875 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-17 - Play music from your IPFS node, or any other cloud/distributed storage service you use.
 * [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) ⭐ 657 | 🐛 160 | 🌐 Python | 📅 2026-07-24 - Web Archive (WARC) indexing and replay using IPFS.
 * [brig](https://github.com/sahib/brig) ⭐ 576 | 🐛 29 | 🌐 Go | 📅 2024-02-13 - File synchronization with git like interface and FUSE filesystem.
 * [TeaTime](https://github.com/bjesus/teatime) ⭐ 528 | 🐛 5 | 🌐 Vue | 📅 2025-01-01 - A fully static distributed library system powered by IPFS, SQLite and GitHub.
 * [killcord](https://github.com/nomasters/killcord) ⚠️ Archived - A censorship resistant deadman's switch
 * [Hardbin](https://github.com/jes/hardbin) ⭐ 257 | 🐛 5 | 🌐 JavaScript | 📅 2023-10-25 - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
 * [hyprspace](https://github.com/hyprspace/hyprspace) ⭐ 248 | 🐛 32 | 🌐 Go | 📅 2026-08-26 - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks.
-* [Peer Web Site](https://github.com/Weedshaker/PeerWebSite) ⭐ 191 | 🐛 9 | 🌐 JavaScript | 📅 2024-11-02 - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
+* [Peer Web Site](https://github.com/Weedshaker/PeerWebSite) ⭐ 192 | 🐛 9 | 🌐 JavaScript | 📅 2024-11-02 - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
 * [IPFS Share](https://github.com/ipfs-shipyard/ipfs-share-files) ⭐ 171 | 🐛 40 | 🌐 TypeScript | 📅 2026-06-01 - Share files directly from the browser using IPFS.
 * [Mintter](https://github.com/MintterHypermedia/mintter) ⚠️ Archived - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
 * [ipfs-chat](https://github.com/SomajitDey/ipfs-chat) ⭐ 154 | 🐛 1 | 🌐 Shell | 📅 2026-08-30 - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
@@ -63,8 +63,8 @@ A list of web browsers with IPFS integrations
 
 ## Tools
 
-* [orbit-db](https://github.com/orbitdb/orbit-db) ⭐ 8,808 | 🐛 25 | 🌐 JavaScript | 📅 2026-05-14 - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
-* [ipfs-companion](https://github.com/ipfs/ipfs-companion) ⭐ 2,160 | 🐛 138 | 🌐 JavaScript | 📅 2026-09-16 - Browser extension that simplifies access to IPFS resources.
+* [orbit-db](https://github.com/orbitdb/orbit-db) ⭐ 8,809 | 🐛 25 | 🌐 JavaScript | 📅 2026-05-14 - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
+* [ipfs-companion](https://github.com/ipfs/ipfs-companion) ⭐ 2,161 | 🐛 138 | 🌐 JavaScript | 📅 2026-09-16 - Browser extension that simplifies access to IPFS resources.
 * [Public Gateway Checker](https://github.com/ipfs/public-gateway-checker) ⭐ 2,102 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-21 - Checks which public gateways are online or not.
 * [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) ⭐ 1,168 | 🐛 32 | 🌐 JavaScript | 📅 2025-05-10 - Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy
 * [sourcify](https://github.com/ethereum/sourcify) ⭐ 952 | 🐛 104 | 🌐 TypeScript | 📅 2026-09-17 - Decentralized Solidity contract source code verification service
@@ -156,4 +156,4 @@ See the [**Contribution Guidelines**](./CONTRIBUTING.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

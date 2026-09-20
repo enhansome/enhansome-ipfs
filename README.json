@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-17T04:56:01Z",
-            "open_issues": 112,
+            "open_issues": 113,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6586,
+            "stars": 6588,
             "topics": [
               "desktop",
               "dweb",
@@ -48,11 +48,11 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-18T15:53:05Z",
-            "open_issues": 102,
+            "last_commit": "2026-09-19T23:02:21Z",
+            "open_issues": 103,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2521,
+            "stars": 2524,
             "topics": [
               "cryptography",
               "decentralized",
@@ -124,7 +124,7 @@
             "open_issues": 112,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1576,
+            "stars": 1577,
             "topics": [
               "archiving",
               "browser-extension",
@@ -183,7 +183,7 @@
             "open_issues": 7,
             "owner": "icidasset",
             "repo": "diffuse",
-            "stars": 876,
+            "stars": 875,
             "topics": [
               "cloud",
               "decentralized",
@@ -349,7 +349,7 @@
             "open_issues": 9,
             "owner": "Weedshaker",
             "repo": "PeerWebSite",
-            "stars": 191,
+            "stars": 192,
             "topics": [
               "data-storage",
               "decentralized",
@@ -620,7 +620,7 @@
             "open_issues": 25,
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8808,
+            "stars": 8809,
             "topics": [
               "crdt",
               "database",
@@ -651,7 +651,7 @@
             "open_issues": 138,
             "owner": "ipfs",
             "repo": "ipfs-companion",
-            "stars": 2160,
+            "stars": 2161,
             "topics": [
               "chrome-extension",
               "dweb",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T06:32:21.355Z",
+    "last_updated": "2026-09-20T06:54:40.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
