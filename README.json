@@ -19,7 +19,7 @@
             "open_issues": 115,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6587,
+            "stars": 6588,
             "topics": [
               "desktop",
               "dweb",
@@ -48,11 +48,11 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-21T21:20:47Z",
-            "open_issues": 102,
+            "last_commit": "2026-09-23T06:29:21Z",
+            "open_issues": 97,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2524,
+            "stars": 2525,
             "topics": [
               "cryptography",
               "decentralized",
@@ -124,7 +124,7 @@
             "open_issues": 113,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1579,
+            "stars": 1580,
             "topics": [
               "archiving",
               "browser-extension",
@@ -179,7 +179,7 @@
             "id": 80358021,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T14:38:24Z",
+            "last_commit": "2026-09-22T18:32:03Z",
             "open_issues": 7,
             "owner": "icidasset",
             "repo": "diffuse",
@@ -286,7 +286,7 @@
             "open_issues": 1,
             "owner": "nomasters",
             "repo": "killcord",
-            "stars": 524,
+            "stars": 523,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -620,7 +620,7 @@
             "open_issues": 25,
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8809,
+            "stars": 8810,
             "topics": [
               "crdt",
               "database",
@@ -733,8 +733,8 @@
             "id": 183183290,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T07:36:40Z",
-            "open_issues": 100,
+            "last_commit": "2026-09-22T11:22:28Z",
+            "open_issues": 98,
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 952,
@@ -796,7 +796,7 @@
             "open_issues": 6,
             "owner": "berty",
             "repo": "go-orbit-db",
-            "stars": 454,
+            "stars": 455,
             "topics": [
               "berty",
               "crdt",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T06:44:41.189Z",
+    "last_updated": "2026-09-23T06:36:15.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
@@ -1761,7 +1761,7 @@
       "open_issues": 22,
       "owner": "ipfs",
       "repo": "awesome-ipfs",
-      "stars": 4609,
+      "stars": 4610,
       "topics": [
         "awesome",
         "awesome-ipfs",
