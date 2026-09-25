@@ -19,7 +19,7 @@
             "open_issues": 115,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6587,
+            "stars": 6589,
             "topics": [
               "desktop",
               "dweb",
@@ -48,7 +48,7 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-23T17:03:41Z",
+            "last_commit": "2026-09-24T23:16:36Z",
             "open_issues": 96,
             "owner": "Peergos",
             "repo": "Peergos",
@@ -124,7 +124,7 @@
             "open_issues": 113,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1580,
+            "stars": 1581,
             "topics": [
               "archiving",
               "browser-extension",
@@ -242,7 +242,7 @@
             "open_issues": 29,
             "owner": "sahib",
             "repo": "brig",
-            "stars": 576,
+            "stars": 577,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -263,7 +263,7 @@
             "open_issues": 5,
             "owner": "bjesus",
             "repo": "teatime",
-            "stars": 528,
+            "stars": 529,
             "topics": [
               "teatime-instance"
             ]
@@ -325,7 +325,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-26T22:47:41Z",
-            "open_issues": 32,
+            "open_issues": 34,
             "owner": "hyprspace",
             "repo": "hyprspace",
             "stars": 248,
@@ -617,10 +617,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-05-14T14:56:57Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8810,
+            "stars": 8811,
             "topics": [
               "crdt",
               "database",
@@ -651,7 +651,7 @@
             "open_issues": 138,
             "owner": "ipfs",
             "repo": "ipfs-companion",
-            "stars": 2161,
+            "stars": 2162,
             "topics": [
               "chrome-extension",
               "dweb",
@@ -680,7 +680,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-23T18:10:18Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
             "stars": 2101,
@@ -707,7 +707,7 @@
             "open_issues": 32,
             "owner": "ipfs-shipyard",
             "repo": "ipfs-deploy",
-            "stars": 1168,
+            "stars": 1170,
             "topics": [
               "cli",
               "deploying",
@@ -733,11 +733,11 @@
             "id": 183183290,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T11:22:28Z",
-            "open_issues": 98,
+            "last_commit": "2026-09-24T12:14:39Z",
+            "open_issues": 95,
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "ethereum",
               "smart-contracts",
@@ -765,7 +765,7 @@
             "open_issues": 10,
             "owner": "ipdr",
             "repo": "ipdr",
-            "stars": 544,
+            "stars": 545,
             "topics": [
               "cdn",
               "docker",
@@ -796,7 +796,7 @@
             "open_issues": 6,
             "owner": "berty",
             "repo": "go-orbit-db",
-            "stars": 455,
+            "stars": 456,
             "topics": [
               "berty",
               "crdt",
@@ -1708,7 +1708,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-23T18:10:18Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
             "stars": 2101,
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T06:41:49.489Z",
+    "last_updated": "2026-09-25T06:33:04.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
@@ -1761,7 +1761,7 @@
       "open_issues": 22,
       "owner": "ipfs",
       "repo": "awesome-ipfs",
-      "stars": 4610,
+      "stars": 4611,
       "topics": [
         "awesome",
         "awesome-ipfs",
