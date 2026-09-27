@@ -48,7 +48,7 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T23:53:49Z",
+            "last_commit": "2026-09-27T00:29:01Z",
             "open_issues": 97,
             "owner": "Peergos",
             "repo": "Peergos",
@@ -124,7 +124,7 @@
             "open_issues": 113,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1581,
+            "stars": 1582,
             "topics": [
               "archiving",
               "browser-extension",
@@ -325,10 +325,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-26T22:47:41Z",
-            "open_issues": 33,
+            "open_issues": 32,
             "owner": "hyprspace",
             "repo": "hyprspace",
-            "stars": 248,
+            "stars": 249,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T06:34:58.907Z",
+    "last_updated": "2026-09-27T07:02:53.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
