@@ -48,11 +48,11 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T07:20:07Z",
-            "open_issues": 97,
+            "last_commit": "2026-09-28T16:17:50Z",
+            "open_issues": 96,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2526,
+            "stars": 2530,
             "topics": [
               "cryptography",
               "decentralized",
@@ -93,7 +93,7 @@
             "open_issues": 80,
             "owner": "Planetable",
             "repo": "Planet",
-            "stars": 1814,
+            "stars": 1813,
             "topics": [
               "blog",
               "ens",
@@ -124,7 +124,7 @@
             "open_issues": 113,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1582,
+            "stars": 1583,
             "topics": [
               "archiving",
               "browser-extension",
@@ -647,11 +647,11 @@
             "id": 32695583,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-16T23:19:04Z",
+            "last_commit": "2026-09-28T17:34:45Z",
             "open_issues": 138,
             "owner": "ipfs",
             "repo": "ipfs-companion",
-            "stars": 2162,
+            "stars": 2163,
             "topics": [
               "chrome-extension",
               "dweb",
@@ -733,7 +733,7 @@
             "id": 183183290,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T06:16:44Z",
+            "last_commit": "2026-09-29T07:09:46Z",
             "open_issues": 95,
             "owner": "argotorg",
             "repo": "sourcify",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T07:32:33.503Z",
+    "last_updated": "2026-09-29T07:27:55.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
