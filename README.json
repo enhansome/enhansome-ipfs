@@ -19,7 +19,7 @@
             "open_issues": 115,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6591,
+            "stars": 6589,
             "topics": [
               "desktop",
               "dweb",
@@ -48,7 +48,7 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T16:17:50Z",
+            "last_commit": "2026-09-29T22:51:31Z",
             "open_issues": 96,
             "owner": "Peergos",
             "repo": "Peergos",
@@ -93,7 +93,7 @@
             "open_issues": 80,
             "owner": "Planetable",
             "repo": "Planet",
-            "stars": 1813,
+            "stars": 1812,
             "topics": [
               "blog",
               "ens",
@@ -124,7 +124,7 @@
             "open_issues": 113,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1583,
+            "stars": 1584,
             "topics": [
               "archiving",
               "browser-extension",
@@ -211,7 +211,7 @@
             "open_issues": 160,
             "owner": "oduwsdl",
             "repo": "ipwb",
-            "stars": 657,
+            "stars": 656,
             "topics": [
               "docker",
               "ipfs",
@@ -286,7 +286,7 @@
             "open_issues": 1,
             "owner": "nomasters",
             "repo": "killcord",
-            "stars": 523,
+            "stars": 522,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -439,7 +439,7 @@
             "open_issues": 1,
             "owner": "SomajitDey",
             "repo": "ipfs-chat",
-            "stars": 155,
+            "stars": 154,
             "topics": [
               "brokerless",
               "dapp",
@@ -620,7 +620,7 @@
             "open_issues": 26,
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8812,
+            "stars": 8813,
             "topics": [
               "crdt",
               "database",
@@ -651,7 +651,7 @@
             "open_issues": 138,
             "owner": "ipfs",
             "repo": "ipfs-companion",
-            "stars": 2163,
+            "stars": 2162,
             "topics": [
               "chrome-extension",
               "dweb",
@@ -683,7 +683,7 @@
             "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2101,
+            "stars": 2100,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -733,8 +733,8 @@
             "id": 183183290,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T07:09:46Z",
-            "open_issues": 95,
+            "last_commit": "2026-09-29T10:30:06Z",
+            "open_issues": 97,
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 954,
@@ -1711,7 +1711,7 @@
             "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2101,
+            "stars": 2100,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T07:27:55.227Z",
+    "last_updated": "2026-09-30T07:20:19.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
