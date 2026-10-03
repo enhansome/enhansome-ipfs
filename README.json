@@ -48,7 +48,7 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T00:01:46Z",
+            "last_commit": "2026-10-03T06:59:46Z",
             "open_issues": 93,
             "owner": "Peergos",
             "repo": "Peergos",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:52:29.932Z",
+    "last_updated": "2026-10-03T07:02:53.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
