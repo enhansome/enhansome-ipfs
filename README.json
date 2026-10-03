@@ -19,7 +19,7 @@
             "open_issues": 115,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6591,
+            "stars": 6590,
             "topics": [
               "desktop",
               "dweb",
@@ -48,8 +48,8 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T06:13:52Z",
-            "open_issues": 94,
+            "last_commit": "2026-10-03T00:01:46Z",
+            "open_issues": 93,
             "owner": "Peergos",
             "repo": "Peergos",
             "stars": 2530,
@@ -93,7 +93,7 @@
             "open_issues": 80,
             "owner": "Planetable",
             "repo": "Planet",
-            "stars": 1811,
+            "stars": 1809,
             "topics": [
               "blog",
               "ens",
@@ -124,7 +124,7 @@
             "open_issues": 113,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1585,
+            "stars": 1587,
             "topics": [
               "archiving",
               "browser-extension",
@@ -154,7 +154,7 @@
             "open_issues": 103,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 924,
+            "stars": 923,
             "topics": [
               "browser",
               "decentralization",
@@ -183,7 +183,7 @@
             "open_issues": 7,
             "owner": "icidasset",
             "repo": "diffuse",
-            "stars": 874,
+            "stars": 873,
             "topics": [
               "cloud",
               "decentralized",
@@ -585,7 +585,7 @@
             "open_issues": 103,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 924,
+            "stars": 923,
             "topics": [
               "browser",
               "decentralization",
@@ -617,7 +617,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-05-14T14:56:57Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "orbitdb",
             "repo": "orbitdb",
             "stars": 8813,
@@ -683,7 +683,7 @@
             "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2100,
+            "stars": 2099,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -737,7 +737,7 @@
             "open_issues": 99,
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 954,
+            "stars": 955,
             "topics": [
               "ethereum",
               "smart-contracts",
@@ -1214,7 +1214,7 @@
             "open_issues": 6,
             "owner": "jbenet",
             "repo": "ipfs-screencap",
-            "stars": 49,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -1698,7 +1698,7 @@
         {
           "node_type": "item",
           "title": "Public Gateway Checker",
-          "description": null,
+          "description": "ipfs/public-gateway-checker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1711,7 +1711,7 @@
             "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2100,
+            "stars": 2099,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -1722,7 +1722,7 @@
         {
           "node_type": "item",
           "title": "IPNS Inspector",
-          "description": null,
+          "description": "ipshipyard/ipns-inspector",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:28:45.769Z",
+    "last_updated": "2026-10-03T04:52:29.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
