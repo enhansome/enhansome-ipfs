@@ -19,7 +19,7 @@
             "open_issues": 115,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6590,
+            "stars": 6591,
             "topics": [
               "desktop",
               "dweb",
@@ -48,7 +48,7 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T06:59:46Z",
+            "last_commit": "2026-10-03T13:47:21Z",
             "open_issues": 93,
             "owner": "Peergos",
             "repo": "Peergos",
@@ -154,7 +154,7 @@
             "open_issues": 103,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 923,
+            "stars": 924,
             "topics": [
               "browser",
               "decentralization",
@@ -585,7 +585,7 @@
             "open_issues": 103,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 923,
+            "stars": 924,
             "topics": [
               "browser",
               "decentralization",
@@ -825,7 +825,7 @@
             "open_issues": 29,
             "owner": "ipfs",
             "repo": "ipget",
-            "stars": 423,
+            "stars": 422,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T07:02:53.159Z",
+    "last_updated": "2026-10-04T07:21:20.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
@@ -1761,7 +1761,7 @@
       "open_issues": 22,
       "owner": "ipfs",
       "repo": "awesome-ipfs",
-      "stars": 4611,
+      "stars": 4612,
       "topics": [
         "awesome",
         "awesome-ipfs",
