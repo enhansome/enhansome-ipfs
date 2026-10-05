@@ -19,7 +19,7 @@
             "open_issues": 115,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6591,
+            "stars": 6592,
             "topics": [
               "desktop",
               "dweb",
@@ -48,11 +48,11 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T13:47:21Z",
+            "last_commit": "2026-10-05T06:16:05Z",
             "open_issues": 93,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2530,
+            "stars": 2529,
             "topics": [
               "cryptography",
               "decentralized",
@@ -734,7 +734,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-01T12:54:20Z",
-            "open_issues": 99,
+            "open_issues": 100,
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 955,
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T07:21:20.408Z",
+    "last_updated": "2026-10-05T07:38:32.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
