@@ -67,7 +67,7 @@ A list of web browsers with IPFS integrations
 * [ipfs-companion](https://github.com/ipfs/ipfs-companion) ⭐ 2,164 | 🐛 139 | 🌐 JavaScript | 📅 2026-10-01 - Browser extension that simplifies access to IPFS resources.
 * [Public Gateway Checker](https://github.com/ipfs/public-gateway-checker) ⭐ 2,099 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-25 - Checks which public gateways are online or not.
 * [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) ⭐ 1,170 | 🐛 32 | 🌐 JavaScript | 📅 2025-05-10 - Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy
-* [sourcify](https://github.com/ethereum/sourcify) ⭐ 955 | 🐛 101 | 🌐 TypeScript | 📅 2026-10-05 - Decentralized Solidity contract source code verification service
+* [sourcify](https://github.com/ethereum/sourcify) ⭐ 955 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-06 - Decentralized Solidity contract source code verification service
 * [IPDR](https://github.com/miguelmota/ipdr) ⚠️ Archived - IPFS-backed Docker Registry.
 * [go-orbit-db](https://github.com/berty/go-orbit-db) ⭐ 456 | 🐛 7 | 🌐 Go | 📅 2026-09-21 - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 * [ipget](https://github.com/ipfs/ipget) ⚠️ Archived - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
