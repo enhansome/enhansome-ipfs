@@ -15,8 +15,8 @@
             "id": 36580101,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T04:55:03Z",
-            "open_issues": 115,
+            "last_commit": "2026-10-12T11:00:44Z",
+            "open_issues": 117,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
             "stars": 6599,
@@ -48,11 +48,11 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-11T19:45:09Z",
-            "open_issues": 91,
+            "last_commit": "2026-10-13T05:56:38Z",
+            "open_issues": 90,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2533,
+            "stars": 2534,
             "topics": [
               "cryptography",
               "decentralized",
@@ -124,7 +124,7 @@
             "open_issues": 113,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1595,
+            "stars": 1596,
             "topics": [
               "archiving",
               "browser-extension",
@@ -179,7 +179,7 @@
             "id": 80358021,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T21:24:50Z",
+            "last_commit": "2026-10-12T21:32:52Z",
             "open_issues": 7,
             "owner": "icidasset",
             "repo": "diffuse",
@@ -620,7 +620,7 @@
             "open_issues": 27,
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8813,
+            "stars": 8817,
             "topics": [
               "crdt",
               "database",
@@ -683,7 +683,7 @@
             "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2098,
+            "stars": 2097,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -734,7 +734,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-08T07:56:59Z",
-            "open_issues": 106,
+            "open_issues": 107,
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 957,
@@ -1711,7 +1711,7 @@
             "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2098,
+            "stars": 2097,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T07:56:12.325Z",
+    "last_updated": "2026-10-13T08:22:15.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
