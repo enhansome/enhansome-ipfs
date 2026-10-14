@@ -19,7 +19,7 @@
             "open_issues": 117,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6599,
+            "stars": 6600,
             "topics": [
               "desktop",
               "dweb",
@@ -48,11 +48,11 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-13T05:56:38Z",
-            "open_issues": 90,
+            "last_commit": "2026-10-13T20:26:32Z",
+            "open_issues": 92,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2534,
+            "stars": 2532,
             "topics": [
               "cryptography",
               "decentralized",
@@ -93,7 +93,7 @@
             "open_issues": 80,
             "owner": "Planetable",
             "repo": "Planet",
-            "stars": 1807,
+            "stars": 1806,
             "topics": [
               "blog",
               "ens",
@@ -154,7 +154,7 @@
             "open_issues": 103,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 925,
+            "stars": 924,
             "topics": [
               "browser",
               "decentralization",
@@ -179,7 +179,7 @@
             "id": 80358021,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T21:32:52Z",
+            "last_commit": "2026-10-13T20:47:25Z",
             "open_issues": 7,
             "owner": "icidasset",
             "repo": "diffuse",
@@ -263,7 +263,7 @@
             "open_issues": 5,
             "owner": "bjesus",
             "repo": "teatime",
-            "stars": 529,
+            "stars": 528,
             "topics": [
               "teatime-instance"
             ]
@@ -585,7 +585,7 @@
             "open_issues": 103,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 925,
+            "stars": 924,
             "topics": [
               "browser",
               "decentralization",
@@ -683,7 +683,7 @@
             "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2097,
+            "stars": 2098,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -733,8 +733,8 @@
             "id": 183183290,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T07:56:59Z",
-            "open_issues": 107,
+            "last_commit": "2026-10-13T13:07:22Z",
+            "open_issues": 102,
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 957,
@@ -900,7 +900,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2024-06-24T13:23:57Z",
-            "open_issues": 19,
+            "open_issues": 17,
             "owner": "Consensys",
             "repo": "Mahuta",
             "stars": 246,
@@ -1711,7 +1711,7 @@
             "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2097,
+            "stars": 2098,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T08:22:15.648Z",
+    "last_updated": "2026-10-14T06:39:28.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
