@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-12T11:00:44Z",
-            "open_issues": 117,
+            "open_issues": 118,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
             "stars": 6605,
@@ -48,8 +48,8 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-18T00:13:27Z",
-            "open_issues": 92,
+            "last_commit": "2026-10-19T06:27:36Z",
+            "open_issues": 91,
             "owner": "Peergos",
             "repo": "Peergos",
             "stars": 2536,
@@ -124,7 +124,7 @@
             "open_issues": 113,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1600,
+            "stars": 1602,
             "topics": [
               "archiving",
               "browser-extension",
@@ -325,7 +325,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-26T22:47:41Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "hyprspace",
             "repo": "hyprspace",
             "stars": 250,
@@ -620,7 +620,7 @@
             "open_issues": 28,
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8821,
+            "stars": 8822,
             "topics": [
               "crdt",
               "database",
@@ -651,7 +651,7 @@
             "open_issues": 139,
             "owner": "ipfs",
             "repo": "ipfs-companion",
-            "stars": 2167,
+            "stars": 2168,
             "topics": [
               "chrome-extension",
               "dweb",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T06:32:37.324Z",
+    "last_updated": "2026-10-19T06:44:20.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
