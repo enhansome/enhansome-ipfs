@@ -48,8 +48,8 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-20T20:28:29Z",
-            "open_issues": 91,
+            "last_commit": "2026-10-22T00:42:01Z",
+            "open_issues": 92,
             "owner": "Peergos",
             "repo": "Peergos",
             "stars": 2540,
@@ -328,7 +328,7 @@
             "open_issues": 33,
             "owner": "hyprspace",
             "repo": "hyprspace",
-            "stars": 250,
+            "stars": 251,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -733,8 +733,8 @@
             "id": 183183290,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T15:14:04Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-21T13:58:59Z",
+            "open_issues": 97,
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 956,
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T06:30:28.965Z",
+    "last_updated": "2026-10-22T06:32:25.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
@@ -1761,7 +1761,7 @@
       "open_issues": 24,
       "owner": "ipfs",
       "repo": "awesome-ipfs",
-      "stars": 4616,
+      "stars": 4617,
       "topics": [
         "awesome",
         "awesome-ipfs",
