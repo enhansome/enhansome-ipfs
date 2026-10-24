@@ -19,7 +19,7 @@
             "open_issues": 118,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6608,
+            "stars": 6609,
             "topics": [
               "desktop",
               "dweb",
@@ -48,7 +48,7 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-23T00:33:10Z",
+            "last_commit": "2026-10-24T02:00:56Z",
             "open_issues": 92,
             "owner": "Peergos",
             "repo": "Peergos",
@@ -620,7 +620,7 @@
             "open_issues": 28,
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8823,
+            "stars": 8824,
             "topics": [
               "crdt",
               "database",
@@ -792,8 +792,8 @@
             "id": 191404375,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T01:03:36Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-23T07:09:32Z",
+            "open_issues": 6,
             "owner": "berty",
             "repo": "go-orbit-db",
             "stars": 457,
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T06:26:45.592Z",
+    "last_updated": "2026-10-24T06:24:19.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
