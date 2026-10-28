@@ -48,7 +48,7 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T21:06:25Z",
+            "last_commit": "2026-10-27T23:02:07Z",
             "open_issues": 93,
             "owner": "Peergos",
             "repo": "Peergos",
@@ -179,7 +179,7 @@
             "id": 80358021,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T20:21:22Z",
+            "last_commit": "2026-10-27T21:17:55Z",
             "open_issues": 7,
             "owner": "icidasset",
             "repo": "diffuse",
@@ -263,7 +263,7 @@
             "open_issues": 5,
             "owner": "bjesus",
             "repo": "teatime",
-            "stars": 528,
+            "stars": 527,
             "topics": [
               "teatime-instance"
             ]
@@ -733,7 +733,7 @@
             "id": 183183290,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T13:21:11Z",
+            "last_commit": "2026-10-27T16:21:13Z",
             "open_issues": 94,
             "owner": "argotorg",
             "repo": "sourcify",
@@ -825,7 +825,7 @@
             "open_issues": 29,
             "owner": "ipfs",
             "repo": "ipget",
-            "stars": 422,
+            "stars": 421,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -1121,7 +1121,7 @@
             "id": 671031871,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T15:27:01Z",
+            "last_commit": "2026-10-27T14:34:51Z",
             "open_issues": 4,
             "owner": "omnipin",
             "repo": "omnipin",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T06:46:47.233Z",
+    "last_updated": "2026-10-28T07:19:21.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
