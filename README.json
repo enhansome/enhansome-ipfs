@@ -48,8 +48,8 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T23:38:46Z",
-            "open_issues": 101,
+            "last_commit": "2026-11-02T06:50:18Z",
+            "open_issues": 96,
             "owner": "Peergos",
             "repo": "Peergos",
             "stars": 2546,
@@ -179,7 +179,7 @@
             "id": 80358021,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T14:06:28Z",
+            "last_commit": "2026-11-01T21:21:09Z",
             "open_issues": 7,
             "owner": "icidasset",
             "repo": "diffuse",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T08:03:37.091Z",
+    "last_updated": "2026-11-02T08:12:18.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
@@ -1761,7 +1761,7 @@
       "open_issues": 24,
       "owner": "ipfs",
       "repo": "awesome-ipfs",
-      "stars": 4621,
+      "stars": 4624,
       "topics": [
         "awesome",
         "awesome-ipfs",
