@@ -48,8 +48,8 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-06T23:00:09Z",
-            "open_issues": 99,
+            "last_commit": "2026-11-08T01:18:25Z",
+            "open_issues": 94,
             "owner": "Peergos",
             "repo": "Peergos",
             "stars": 2552,
@@ -93,7 +93,7 @@
             "open_issues": 80,
             "owner": "Planetable",
             "repo": "Planet",
-            "stars": 1807,
+            "stars": 1806,
             "topics": [
               "blog",
               "ens",
@@ -124,7 +124,7 @@
             "open_issues": 113,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1619,
+            "stars": 1624,
             "topics": [
               "archiving",
               "browser-extension",
@@ -683,7 +683,7 @@
             "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2098,
+            "stars": 2097,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -734,7 +734,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-03T09:08:56Z",
-            "open_issues": 97,
+            "open_issues": 98,
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 961,
@@ -846,7 +846,7 @@
             "open_issues": 35,
             "owner": "ipfs-shipyard",
             "repo": "gomobile-ipfs",
-            "stars": 356,
+            "stars": 355,
             "topics": [
               "android",
               "berty",
@@ -1711,7 +1711,7 @@
             "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2098,
+            "stars": 2097,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T07:43:42.004Z",
+    "last_updated": "2026-11-08T07:54:37.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
