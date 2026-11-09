@@ -19,7 +19,7 @@
             "open_issues": 118,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6612,
+            "stars": 6613,
             "topics": [
               "desktop",
               "dweb",
@@ -48,8 +48,8 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-08T01:18:25Z",
-            "open_issues": 94,
+            "last_commit": "2026-11-09T07:21:21Z",
+            "open_issues": 93,
             "owner": "Peergos",
             "repo": "Peergos",
             "stars": 2552,
@@ -124,7 +124,7 @@
             "open_issues": 113,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1624,
+            "stars": 1626,
             "topics": [
               "archiving",
               "browser-extension",
@@ -179,7 +179,7 @@
             "id": 80358021,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T17:41:42Z",
+            "last_commit": "2026-11-08T12:54:10Z",
             "open_issues": 6,
             "owner": "icidasset",
             "repo": "diffuse",
@@ -651,7 +651,7 @@
             "open_issues": 139,
             "owner": "ipfs",
             "repo": "ipfs-companion",
-            "stars": 2167,
+            "stars": 2168,
             "topics": [
               "chrome-extension",
               "dweb",
@@ -734,7 +734,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-03T09:08:56Z",
-            "open_issues": 98,
+            "open_issues": 97,
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 961,
@@ -1100,7 +1100,7 @@
             "open_issues": 5,
             "owner": "omnipin",
             "repo": "omnipin",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "blockchain",
               "cli",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T07:54:37.700Z",
+    "last_updated": "2026-11-09T08:37:25.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
@@ -1761,7 +1761,7 @@
       "open_issues": 24,
       "owner": "ipfs",
       "repo": "awesome-ipfs",
-      "stars": 4627,
+      "stars": 4628,
       "topics": [
         "awesome",
         "awesome-ipfs",
