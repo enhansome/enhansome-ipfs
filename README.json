@@ -19,7 +19,7 @@
             "open_issues": 118,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6616,
+            "stars": 6617,
             "topics": [
               "desktop",
               "dweb",
@@ -48,11 +48,11 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-10T16:20:25Z",
+            "last_commit": "2026-11-11T21:42:51Z",
             "open_issues": 93,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2553,
+            "stars": 2554,
             "topics": [
               "cryptography",
               "decentralized",
@@ -89,7 +89,7 @@
             "id": 497232768,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-24T14:36:19Z",
+            "last_commit": "2026-11-11T20:25:52Z",
             "open_issues": 80,
             "owner": "Planetable",
             "repo": "Planet",
@@ -151,7 +151,7 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-07-13T14:45:15Z",
-            "open_issues": 104,
+            "open_issues": 106,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
             "stars": 928,
@@ -242,7 +242,7 @@
             "open_issues": 29,
             "owner": "sahib",
             "repo": "brig",
-            "stars": 577,
+            "stars": 578,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -582,7 +582,7 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-07-13T14:45:15Z",
-            "open_issues": 104,
+            "open_issues": 106,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
             "stars": 928,
@@ -620,7 +620,7 @@
             "open_issues": 28,
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8825,
+            "stars": 8826,
             "topics": [
               "crdt",
               "database",
@@ -733,8 +733,8 @@
             "id": 183183290,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T14:15:27Z",
-            "open_issues": 95,
+            "last_commit": "2026-11-12T08:12:40Z",
+            "open_issues": 93,
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 961,
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T08:18:18.978Z",
+    "last_updated": "2026-11-12T08:47:44.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
@@ -1761,7 +1761,7 @@
       "open_issues": 24,
       "owner": "ipfs",
       "repo": "awesome-ipfs",
-      "stars": 4628,
+      "stars": 4630,
       "topics": [
         "awesome",
         "awesome-ipfs",
