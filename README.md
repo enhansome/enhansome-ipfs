@@ -26,8 +26,8 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 ## Apps
 
 * [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) ⭐ 6,616 | 🐛 118 | 🌐 JavaScript | 📅 2026-10-12 - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
-* [Peergos](https://github.com/Peergos/Peergos) ⭐ 2,554 | 🐛 93 | 🌐 Java | 📅 2026-11-13 - End-to-end encrypted, peer-to-peer file storage and sharing.
-* [Planet](https://github.com/Planetable/Planet) ⭐ 1,807 | 🐛 80 | 🌐 Swift | 📅 2026-11-11 - Build and host decentralized blogs and websites with IPFS on your Mac
+* [Peergos](https://github.com/Peergos/Peergos) ⭐ 2,554 | 🐛 94 | 🌐 Java | 📅 2026-11-14 - End-to-end encrypted, peer-to-peer file storage and sharing.
+* [Planet](https://github.com/Planetable/Planet) ⭐ 1,806 | 🐛 80 | 🌐 Swift | 📅 2026-11-11 - Build and host decentralized blogs and websites with IPFS on your Mac
 * [archiveweb.page](https://github.com/webrecorder/archiveweb.page) ⭐ 1,628 | 🐛 114 | 🌐 TypeScript | 📅 2026-11-09 - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
 * [Agregore](https://github.com/AgregoreWeb/agregore-browser) ⭐ 928 | 🐛 106 | 🌐 JavaScript | 📅 2026-07-13 - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
 * [Diffuse](https://github.com/icidasset/diffuse) ⭐ 873 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-09 - Play music from your IPFS node, or any other cloud/distributed storage service you use.
@@ -69,7 +69,7 @@ A list of web browsers with IPFS integrations
 * [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) ⭐ 1,170 | 🐛 32 | 🌐 JavaScript | 📅 2025-05-10 - Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy
 * [sourcify](https://github.com/ethereum/sourcify) ⭐ 961 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-12 - Decentralized Solidity contract source code verification service
 * [IPDR](https://github.com/miguelmota/ipdr) ⚠️ Archived - IPFS-backed Docker Registry.
-* [go-orbit-db](https://github.com/berty/go-orbit-db) ⭐ 457 | 🐛 6 | 🌐 Go | 📅 2026-11-06 - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
+* [go-orbit-db](https://github.com/berty/go-orbit-db) ⭐ 457 | 🐛 8 | 🌐 Go | 📅 2026-11-14 - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 * [ipget](https://github.com/ipfs/ipget) ⚠️ Archived - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
 * [gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) ⚠️ Archived - IPFS and libp2p on Mobile, with Gomobile.
 * [VIPFS](https://github.com/Ideea-inc/vipfs) ⭐ 304 | 🐛 24 | 🌐 Vue | 📅 2023-01-06 - Publish your Vue apps easily to IPFS.
@@ -156,4 +156,4 @@ See the [**Contribution Guidelines**](./CONTRIBUTING.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

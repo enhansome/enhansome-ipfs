@@ -48,8 +48,8 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-13T06:57:52Z",
-            "open_issues": 93,
+            "last_commit": "2026-11-14T07:36:09Z",
+            "open_issues": 94,
             "owner": "Peergos",
             "repo": "Peergos",
             "stars": 2554,
@@ -93,7 +93,7 @@
             "open_issues": 80,
             "owner": "Planetable",
             "repo": "Planet",
-            "stars": 1807,
+            "stars": 1806,
             "topics": [
               "blog",
               "ens",
@@ -792,8 +792,8 @@
             "id": 191404375,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T08:18:10Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-14T04:13:21Z",
+            "open_issues": 8,
             "owner": "berty",
             "repo": "go-orbit-db",
             "stars": 457,
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T08:42:41.764Z",
+    "last_updated": "2026-11-14T07:58:05.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
