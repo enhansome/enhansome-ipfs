@@ -19,7 +19,7 @@
             "open_issues": 118,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6616,
+            "stars": 6615,
             "topics": [
               "desktop",
               "dweb",
@@ -48,7 +48,7 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-15T01:29:49Z",
+            "last_commit": "2026-11-15T20:53:01Z",
             "open_issues": 93,
             "owner": "Peergos",
             "repo": "Peergos",
@@ -124,7 +124,7 @@
             "open_issues": 115,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1628,
+            "stars": 1629,
             "topics": [
               "archiving",
               "browser-extension",
@@ -179,7 +179,7 @@
             "id": 80358021,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T22:08:01Z",
+            "last_commit": "2026-11-15T22:03:34Z",
             "open_issues": 6,
             "owner": "icidasset",
             "repo": "diffuse",
@@ -683,7 +683,7 @@
             "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2097,
+            "stars": 2095,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -1600,12 +1600,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "IPFS apps with an update path",
-            "homepage": "https://lock.host",
+            "description": "IPFS apps with an update path.",
+            "homepage": "https://rhodey.org",
             "id": 1016353104,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2025-09-11T16:05:32Z",
+            "last_commit": "2026-11-16T02:58:05Z",
             "open_issues": 0,
             "owner": "rhodey",
             "repo": "IPFS-boot",
@@ -1711,7 +1711,7 @@
             "open_issues": 36,
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2097,
+            "stars": 2095,
             "topics": [
               "ipfs",
               "ipfs-gui"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T08:23:21.652Z",
+    "last_updated": "2026-11-16T08:32:30.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
