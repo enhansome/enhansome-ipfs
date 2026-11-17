@@ -10,7 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. ",
+            "description": "[ BEWARE: NO MAINTAINER ] An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. ",
             "homepage": "https://docs.ipfs.tech/install/ipfs-desktop/",
             "id": 36580101,
             "language": "JavaScript",
@@ -19,7 +19,7 @@
             "open_issues": 118,
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6615,
+            "stars": 6616,
             "topics": [
               "desktop",
               "dweb",
@@ -48,7 +48,7 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-15T20:53:01Z",
+            "last_commit": "2026-11-16T22:20:57Z",
             "open_issues": 93,
             "owner": "Peergos",
             "repo": "Peergos",
@@ -179,11 +179,11 @@
             "id": 80358021,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T22:03:34Z",
+            "last_commit": "2026-11-16T22:52:16Z",
             "open_issues": 6,
             "owner": "icidasset",
             "repo": "diffuse",
-            "stars": 874,
+            "stars": 875,
             "topics": [
               "cloud",
               "decentralized",
@@ -242,7 +242,7 @@
             "open_issues": 29,
             "owner": "sahib",
             "repo": "brig",
-            "stars": 578,
+            "stars": 579,
             "topics": []
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -642,7 +642,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Browser extension that routes ipfs:// addresses and content-addressed websites through your own local IPFS node",
+            "description": "[ BEWARE: NO MAINTAINER ] Browser extension that routes ipfs:// addresses and content-addressed websites through your own local IPFS node",
             "homepage": "https://docs.ipfs.tech/install/ipfs-companion/",
             "id": 32695583,
             "language": "JavaScript",
@@ -707,7 +707,7 @@
             "open_issues": 32,
             "owner": "ipfs-shipyard",
             "repo": "ipfs-deploy",
-            "stars": 1170,
+            "stars": 1171,
             "topics": [
               "cli",
               "deploying",
@@ -733,11 +733,11 @@
             "id": 183183290,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T14:53:23Z",
-            "open_issues": 95,
+            "last_commit": "2026-11-17T09:29:53Z",
+            "open_issues": 97,
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 962,
+            "stars": 965,
             "topics": [
               "ethereum",
               "smart-contracts",
@@ -1100,7 +1100,7 @@
             "open_issues": 5,
             "owner": "omnipin",
             "repo": "omnipin",
-            "stars": 70,
+            "stars": 71,
             "topics": [
               "blockchain",
               "cli",
@@ -1502,6 +1502,31 @@
         },
         {
           "node_type": "item",
+          "title": "IPFS-boot",
+          "description": "Publish IPFS webapps which require user consent to update.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "IPFS apps with an update path.",
+            "homepage": "https://rhodey.org",
+            "id": 1016353104,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-11-16T02:58:05Z",
+            "open_issues": 0,
+            "owner": "rhodey",
+            "repo": "IPFS-boot",
+            "stars": 15,
+            "topics": [
+              "crypto",
+              "ipfs",
+              "p2p"
+            ]
+          },
+          "first_seen": "2026-08-28T13:20:10.484Z"
+        },
+        {
+          "node_type": "item",
           "title": "rivet",
           "description": "A toolkit makes it easier to archive webpages to IPFS.",
           "children": [],
@@ -1589,31 +1614,6 @@
               "safari",
               "tampermonkey",
               "userscript"
-            ]
-          },
-          "first_seen": "2026-08-28T13:20:10.484Z"
-        },
-        {
-          "node_type": "item",
-          "title": "IPFS-boot",
-          "description": "Publish IPFS webapps which require user consent to update.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "IPFS apps with an update path.",
-            "homepage": "https://rhodey.org",
-            "id": 1016353104,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-11-16T02:58:05Z",
-            "open_issues": 0,
-            "owner": "rhodey",
-            "repo": "IPFS-boot",
-            "stars": 5,
-            "topics": [
-              "crypto",
-              "ipfs",
-              "p2p"
             ]
           },
           "first_seen": "2026-08-28T13:20:10.484Z"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T08:32:30.956Z",
+    "last_updated": "2026-11-17T09:42:14.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
