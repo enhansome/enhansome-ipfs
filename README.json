@@ -48,11 +48,11 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-26T09:08:01Z",
-            "open_issues": 95,
+            "last_commit": "2026-11-26T22:53:40Z",
+            "open_issues": 96,
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2558,
+            "stars": 2559,
             "topics": [
               "cryptography",
               "decentralized",
@@ -121,10 +121,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-26T04:50:45Z",
-            "open_issues": 114,
+            "open_issues": 113,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1634,
+            "stars": 1635,
             "topics": [
               "archiving",
               "browser-extension",
@@ -154,7 +154,7 @@
             "open_issues": 104,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 930,
+            "stars": 929,
             "topics": [
               "browser",
               "decentralization",
@@ -585,7 +585,7 @@
             "open_issues": 104,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 930,
+            "stars": 929,
             "topics": [
               "browser",
               "decentralization",
@@ -617,10 +617,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-05-14T14:56:57Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8828,
+            "stars": 8827,
             "topics": [
               "crdt",
               "database",
@@ -734,10 +734,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-25T14:23:11Z",
-            "open_issues": 96,
+            "open_issues": 94,
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 965,
+            "stars": 966,
             "topics": [
               "ethereum",
               "smart-contracts",
@@ -975,7 +975,7 @@
             "open_issues": 10,
             "owner": "aquiladev",
             "repo": "ipfs-action",
-            "stars": 180,
+            "stars": 181,
             "topics": [
               "action",
               "deploy",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T09:59:41.423Z",
+    "last_updated": "2026-11-27T10:04:59.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
