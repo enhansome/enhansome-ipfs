@@ -48,7 +48,7 @@
             "id": 12323472,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-26T22:53:40Z",
+            "last_commit": "2026-11-27T17:14:21Z",
             "open_issues": 96,
             "owner": "Peergos",
             "repo": "Peergos",
@@ -120,11 +120,11 @@
             "id": 239604498,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-26T04:50:45Z",
+            "last_commit": "2026-11-28T09:14:59Z",
             "open_issues": 113,
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1635,
+            "stars": 1637,
             "topics": [
               "archiving",
               "browser-extension",
@@ -620,7 +620,7 @@
             "open_issues": 30,
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8827,
+            "stars": 8825,
             "topics": [
               "crdt",
               "database",
@@ -734,7 +734,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-25T14:23:11Z",
-            "open_issues": 94,
+            "open_issues": 95,
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 966,
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T10:04:59.554Z",
+    "last_updated": "2026-11-28T09:23:16.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
